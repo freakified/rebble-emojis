@@ -37,20 +37,11 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r scripts/requirements.txt
 
-      - name: Build EMOJI18
-        run: python scripts/pbf_repack.py src/emoji18/font.json -o build/EMOJI18.pbf
-
-      - name: Build EMOJI24
-        run: python scripts/pbf_repack.py src/emoji24/font.json -o build/EMOJI24.pbf
-
-      - name: Verify README and previews are up to date
-        run: |
-          python scripts/generate_readme.py
-          git diff --exit-code README.md build/preview/
+      - name: Build All Assets
+        run: python scripts/build.py
 
       - name: Verify binaries are up to date
-        run: |
-          git diff --exit-code build/EMOJI18.pbf build/EMOJI24.pbf
+        run: git diff --exit-code build/EMOJI18.pbf build/EMOJI24.pbf
 
       - name: Upload Compiled Emojis
         uses: actions/upload-artifact@v4
