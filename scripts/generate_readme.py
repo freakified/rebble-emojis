@@ -7,7 +7,7 @@ import json
 import unicodedata
 
 try:
-    from PIL import Image
+    from PIL import Image, ImageChops
 except ImportError:
     print("Error: Pillow is required to generate preview images.")
     print("Please install it: pip install pillow")
@@ -38,6 +38,20 @@ def get_char_name(cp):
         return name.title()
     except ValueError:
         return f"Custom Emoji (U+{cp:04X})"
+
+def save_if_different(dest_img, dest_path):
+    if os.path.exists(dest_path):
+        try:
+            with Image.open(dest_path) as existing_img:
+                if existing_img.size == dest_img.size:
+                    existing_rgba = existing_img.convert("RGBA") if existing_img.mode != "RGBA" else existing_img
+                    diff = ImageChops.difference(existing_rgba, dest_img)
+                    if diff.getbbox() is None:
+                        return False
+        except Exception:
+            pass
+    dest_img.save(dest_path)
+    return True
 
 def main():
     base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -86,7 +100,7 @@ def main():
                         img = Image.open(src_path).convert('L')
                         dest_img = Image.new("RGBA", img.size, (0, 0, 0, 0))
                         dest_img.putalpha(img)
-                        dest_img.save(dest_path)
+                        save_if_different(dest_img, dest_path)
                         processed_count += 1
                     except Exception as e:
                         print(f"Warning: failed to process {src_path}: {e}")
@@ -102,7 +116,7 @@ def main():
                         img = Image.open(src_path).convert('L')
                         dest_img = Image.new("RGBA", img.size, (0, 0, 0, 0))
                         dest_img.putalpha(img)
-                        dest_img.save(dest_path)
+                        save_if_different(dest_img, dest_path)
                         processed_count += 1
                     except Exception as e:
                         print(f"Warning: failed to process {src_path}: {e}")
