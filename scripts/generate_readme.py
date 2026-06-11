@@ -41,9 +41,9 @@ def get_char_name(cp):
 
 def main():
     base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-    emoji18_dir = os.path.join(base_dir, "emoji18")
-    emoji24_dir = os.path.join(base_dir, "emoji24")
-    preview_dir = os.path.join(base_dir, "preview")
+    emoji18_dir = os.path.join(base_dir, "src", "emoji18")
+    emoji24_dir = os.path.join(base_dir, "src", "emoji24")
+    preview_dir = os.path.join(base_dir, "build", "preview")
     
     # Create preview directories
     preview18_dir = os.path.join(preview_dir, "18")
@@ -127,7 +127,7 @@ def main():
             g = glyphs18[cp]
             if g.get("width", 0) > 0 and g.get("height", 0) > 0:
                 file_name = os.path.basename(g["file"])
-                p18_link = f"![{hex_str} 18px](preview/18/{file_name})"
+                p18_link = f"![{hex_str} 18px](build/preview/18/{file_name})"
                 
         # 24px preview link
         p24_link = "-"
@@ -135,7 +135,7 @@ def main():
             g = glyphs24[cp]
             if g.get("width", 0) > 0 and g.get("height", 0) > 0:
                 file_name = os.path.basename(g["file"])
-                p24_link = f"![{hex_str} 24px](preview/24/{file_name})"
+                p24_link = f"![{hex_str} 24px](build/preview/24/{file_name})"
                 
         table_lines.append(f"| {hex_str} | {char_disp} | {name_disp} | {p18_link} | {p24_link} |")
         
