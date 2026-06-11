@@ -43,6 +43,11 @@ jobs:
       - name: Build EMOJI24
         run: python scripts/pbf_repack.py emoji24/font.json -o EMOJI24.pbf
 
+      - name: Verify README and previews are up to date
+        run: |
+          python scripts/generate_readme.py
+          git diff --exit-code README.md preview/
+
       - name: Verify binaries are up to date
         run: |
           git diff --exit-code EMOJI18.pbf EMOJI24.pbf
