@@ -71,9 +71,9 @@
       "advance": 20
     },
     {
-      "codepoint": 8986,
-      "char": "\u231a",
-      "file": "glyphs/U+231A.png",
+      "codepoint": 9200,
+      "char": "\u23f0",
+      "file": "glyphs/U+23F0.png",
       "width": 17,
       "height": 18,
       "left_offset": 1,
@@ -511,6 +511,1276 @@
       "advance": 21
     },
     {
+      "codepoint": 127747,
+      "char": "\ud83c\udf03",
+      "file": "glyphs/U+1F303.png",
+      "width": 18,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 20
+    },
+    {
+      "codepoint": 127748,
+      "char": "\ud83c\udf04",
+      "file": "glyphs/U+1F304.png",
+      "width": 18,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 20
+    },
+    {
+      "codepoint": 127752,
+      "char": "\ud83c\udf08",
+      "file": "glyphs/U+1F308.png",
+      "width": 27,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 29
+    },
+    {
+      "codepoint": 127754,
+      "char": "\ud83c\udf0a",
+      "file": "glyphs/U+1F30A.png",
+      "width": 18,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 20
+    },
+    {
+      "codepoint": 127757,
+      "char": "\ud83c\udf0d",
+      "file": "glyphs/U+1F30D.png",
+      "width": 18,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 20
+    },
+    {
+      "codepoint": 127758,
+      "char": "\ud83c\udf0e",
+      "file": "glyphs/U+1F30E.png",
+      "width": 18,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 20
+    },
+    {
+      "codepoint": 127759,
+      "char": "\ud83c\udf0f",
+      "file": "glyphs/U+1F30F.png",
+      "width": 18,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 20
+    },
+    {
+      "codepoint": 127760,
+      "char": "\ud83c\udf10",
+      "file": "glyphs/U+1F310.png",
+      "width": 17,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 19
+    },
+    {
+      "codepoint": 127762,
+      "char": "\ud83c\udf12",
+      "file": "glyphs/U+1F312.png",
+      "width": 18,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 20
+    },
+    {
+      "codepoint": 127769,
+      "char": "\ud83c\udf19",
+      "file": "glyphs/U+1F319.png",
+      "width": 18,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 20
+    },
+    {
+      "codepoint": 127770,
+      "char": "\ud83c\udf1a",
+      "file": "glyphs/U+1F31A.png",
+      "width": 18,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 20
+    },
+    {
+      "codepoint": 127773,
+      "char": "\ud83c\udf1d",
+      "file": "glyphs/U+1F31D.png",
+      "width": 18,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 20
+    },
+    {
+      "codepoint": 127774,
+      "char": "\ud83c\udf1e",
+      "file": "glyphs/U+1F31E.png",
+      "width": 21,
+      "height": 19,
+      "left_offset": 1,
+      "top_offset": -1,
+      "advance": 23
+    },
+    {
+      "codepoint": 127775,
+      "char": "\ud83c\udf1f",
+      "file": "glyphs/U+1F31F.png",
+      "width": 21,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 23
+    },
+    {
+      "codepoint": 127783,
+      "char": "\ud83c\udf27",
+      "file": "glyphs/U+1F327.png",
+      "width": 18,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 20
+    },
+    {
+      "codepoint": 127790,
+      "char": "\ud83c\udf2e",
+      "file": "glyphs/U+1F32E.png",
+      "width": 18,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 20
+    },
+    {
+      "codepoint": 127793,
+      "char": "\ud83c\udf31",
+      "file": "glyphs/U+1F331.png",
+      "width": 19,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 21
+    },
+    {
+      "codepoint": 127795,
+      "char": "\ud83c\udf33",
+      "file": "glyphs/U+1F333.png",
+      "width": 19,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 21
+    },
+    {
+      "codepoint": 127796,
+      "char": "\ud83c\udf34",
+      "file": "glyphs/U+1F334.png",
+      "width": 18,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 20
+    },
+    {
+      "codepoint": 127799,
+      "char": "\ud83c\udf37",
+      "file": "glyphs/U+1F337.png",
+      "width": 14,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 16
+    },
+    {
+      "codepoint": 127800,
+      "char": "\ud83c\udf38",
+      "file": "glyphs/U+1F338.png",
+      "width": 18,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 20
+    },
+    {
+      "codepoint": 127801,
+      "char": "\ud83c\udf39",
+      "file": "glyphs/U+1F339.png",
+      "width": 14,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 16
+    },
+    {
+      "codepoint": 127802,
+      "char": "\ud83c\udf3a",
+      "file": "glyphs/U+1F33A.png",
+      "width": 18,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 20
+    },
+    {
+      "codepoint": 127803,
+      "char": "\ud83c\udf3b",
+      "file": "glyphs/U+1F33B.png",
+      "width": 14,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 16
+    },
+    {
+      "codepoint": 127804,
+      "char": "\ud83c\udf3c",
+      "file": "glyphs/U+1F33C.png",
+      "width": 18,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 20
+    },
+    {
+      "codepoint": 127807,
+      "char": "\ud83c\udf3f",
+      "file": "glyphs/U+1F33F.png",
+      "width": 19,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 21
+    },
+    {
+      "codepoint": 127808,
+      "char": "\ud83c\udf40",
+      "file": "glyphs/U+1F340.png",
+      "width": 19,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 21
+    },
+    {
+      "codepoint": 127809,
+      "char": "\ud83c\udf41",
+      "file": "glyphs/U+1F341.png",
+      "width": 17,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 19
+    },
+    {
+      "codepoint": 127810,
+      "char": "\ud83c\udf42",
+      "file": "glyphs/U+1F342.png",
+      "width": 17,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 19
+    },
+    {
+      "codepoint": 127811,
+      "char": "\ud83c\udf43",
+      "file": "glyphs/U+1F343.png",
+      "width": 19,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 21
+    },
+    {
+      "codepoint": 127814,
+      "char": "\ud83c\udf46",
+      "file": "glyphs/U+1F346.png",
+      "width": 18,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 20
+    },
+    {
+      "codepoint": 127815,
+      "char": "\ud83c\udf47",
+      "file": "glyphs/U+1F347.png",
+      "width": 18,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 20
+    },
+    {
+      "codepoint": 127816,
+      "char": "\ud83c\udf48",
+      "file": "glyphs/U+1F348.png",
+      "width": 17,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 19
+    },
+    {
+      "codepoint": 127820,
+      "char": "\ud83c\udf4c",
+      "file": "glyphs/U+1F34C.png",
+      "width": 18,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 20
+    },
+    {
+      "codepoint": 127822,
+      "char": "\ud83c\udf4e",
+      "file": "glyphs/U+1F34E.png",
+      "width": 16,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 18
+    },
+    {
+      "codepoint": 127823,
+      "char": "\ud83c\udf4f",
+      "file": "glyphs/U+1F34F.png",
+      "width": 16,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 18
+    },
+    {
+      "codepoint": 127825,
+      "char": "\ud83c\udf51",
+      "file": "glyphs/U+1F351.png",
+      "width": 18,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 20
+    },
+    {
+      "codepoint": 127826,
+      "char": "\ud83c\udf52",
+      "file": "glyphs/U+1F352.png",
+      "width": 19,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 21
+    },
+    {
+      "codepoint": 127827,
+      "char": "\ud83c\udf53",
+      "file": "glyphs/U+1F353.png",
+      "width": 18,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 20
+    },
+    {
+      "codepoint": 127828,
+      "char": "\ud83c\udf54",
+      "file": "glyphs/U+1F354.png",
+      "width": 18,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 20
+    },
+    {
+      "codepoint": 127829,
+      "char": "\ud83c\udf55",
+      "file": "glyphs/U+1F355.png",
+      "width": 16,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 18
+    },
+    {
+      "codepoint": 127851,
+      "char": "\ud83c\udf6b",
+      "file": "glyphs/U+1F36B.png",
+      "width": 18,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 20
+    },
+    {
+      "codepoint": 127853,
+      "char": "\ud83c\udf6d",
+      "file": "glyphs/U+1F36D.png",
+      "width": 18,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 20
+    },
+    {
+      "codepoint": 127856,
+      "char": "\ud83c\udf70",
+      "file": "glyphs/U+1F370.png",
+      "width": 19,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 21
+    },
+    {
+      "codepoint": 127863,
+      "char": "\ud83c\udf77",
+      "file": "glyphs/U+1F377.png",
+      "width": 12,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 14
+    },
+    {
+      "codepoint": 127866,
+      "char": "\ud83c\udf7a",
+      "file": "glyphs/U+1F37A.png",
+      "width": 17,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 19
+    },
+    {
+      "codepoint": 127867,
+      "char": "\ud83c\udf7b",
+      "file": "glyphs/U+1F37B.png",
+      "width": 22,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 24
+    },
+    {
+      "codepoint": 127868,
+      "char": "\ud83c\udf7c",
+      "file": "glyphs/U+1F37C.png",
+      "width": 17,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 19
+    },
+    {
+      "codepoint": 127869,
+      "char": "\ud83c\udf7d",
+      "file": "glyphs/U+1F37D.png",
+      "width": 26,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 28
+    },
+    {
+      "codepoint": 127870,
+      "char": "\ud83c\udf7e",
+      "file": "glyphs/U+1F37E.png",
+      "width": 18,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 20
+    },
+    {
+      "codepoint": 127872,
+      "char": "\ud83c\udf80",
+      "file": "glyphs/U+1F380.png",
+      "width": 18,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 20
+    },
+    {
+      "codepoint": 127873,
+      "char": "\ud83c\udf81",
+      "file": "glyphs/U+1F381.png",
+      "width": 18,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 20
+    },
+    {
+      "codepoint": 127874,
+      "char": "\ud83c\udf82",
+      "file": "glyphs/U+1F382.png",
+      "width": 18,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 20
+    },
+    {
+      "codepoint": 127875,
+      "char": "\ud83c\udf83",
+      "file": "glyphs/U+1F383.png",
+      "width": 18,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 20
+    },
+    {
+      "codepoint": 127876,
+      "char": "\ud83c\udf84",
+      "file": "glyphs/U+1F384.png",
+      "width": 15,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 17
+    },
+    {
+      "codepoint": 127877,
+      "char": "\ud83c\udf85",
+      "file": "glyphs/U+1F385.png",
+      "width": 18,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 20
+    },
+    {
+      "codepoint": 127878,
+      "char": "\ud83c\udf86",
+      "file": "glyphs/U+1F386.png",
+      "width": 18,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 20
+    },
+    {
+      "codepoint": 127880,
+      "char": "\ud83c\udf88",
+      "file": "glyphs/U+1F388.png",
+      "width": 12,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 14
+    },
+    {
+      "codepoint": 127881,
+      "char": "\ud83c\udf89",
+      "file": "glyphs/U+1F389.png",
+      "width": 27,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 29
+    },
+    {
+      "codepoint": 127882,
+      "char": "\ud83c\udf8a",
+      "file": "glyphs/U+1F38A.png",
+      "width": 19,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 21
+    },
+    {
+      "codepoint": 127891,
+      "char": "\ud83c\udf93",
+      "file": "glyphs/U+1F393.png",
+      "width": 22,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 24
+    },
+    {
+      "codepoint": 127897,
+      "char": "\ud83c\udf99",
+      "file": "glyphs/U+1F399.png",
+      "width": 13,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 15
+    },
+    {
+      "codepoint": 127903,
+      "char": "\ud83c\udf9f",
+      "file": "glyphs/U+1F39F.png",
+      "width": 18,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 20
+    },
+    {
+      "codepoint": 127908,
+      "char": "\ud83c\udfa4",
+      "file": "glyphs/U+1F3A4.png",
+      "width": 18,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 20
+    },
+    {
+      "codepoint": 127909,
+      "char": "\ud83c\udfa5",
+      "file": "glyphs/U+1F3A5.png",
+      "width": 18,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 20
+    },
+    {
+      "codepoint": 127911,
+      "char": "\ud83c\udfa7",
+      "file": "glyphs/U+1F3A7.png",
+      "width": 18,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 20
+    },
+    {
+      "codepoint": 127912,
+      "char": "\ud83c\udfa8",
+      "file": "glyphs/U+1F3A8.png",
+      "width": 18,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 20
+    },
+    {
+      "codepoint": 127915,
+      "char": "\ud83c\udfab",
+      "file": "glyphs/U+1F3AB.png",
+      "width": 20,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 22
+    },
+    {
+      "codepoint": 127916,
+      "char": "\ud83c\udfac",
+      "file": "glyphs/U+1F3AC.png",
+      "width": 18,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 20
+    },
+    {
+      "codepoint": 127917,
+      "char": "\ud83c\udfad",
+      "file": "glyphs/U+1F3AD.png",
+      "width": 18,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 20
+    },
+    {
+      "codepoint": 127918,
+      "char": "\ud83c\udfae",
+      "file": "glyphs/U+1F3AE.png",
+      "width": 18,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 20
+    },
+    {
+      "codepoint": 127919,
+      "char": "\ud83c\udfaf",
+      "file": "glyphs/U+1F3AF.png",
+      "width": 18,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 20
+    },
+    {
+      "codepoint": 127925,
+      "char": "\ud83c\udfb5",
+      "file": "glyphs/U+1F3B5.png",
+      "width": 18,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 20
+    },
+    {
+      "codepoint": 127926,
+      "char": "\ud83c\udfb6",
+      "file": "glyphs/U+1F3B6.png",
+      "width": 19,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 21
+    },
+    {
+      "codepoint": 127928,
+      "char": "\ud83c\udfb8",
+      "file": "glyphs/U+1F3B8.png",
+      "width": 18,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 20
+    },
+    {
+      "codepoint": 127932,
+      "char": "\ud83c\udfbc",
+      "file": "glyphs/U+1F3BC.png",
+      "width": 18,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 20
+    },
+    {
+      "codepoint": 127936,
+      "char": "\ud83c\udfc0",
+      "file": "glyphs/U+1F3C0.png",
+      "width": 17,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 19
+    },
+    {
+      "codepoint": 127939,
+      "char": "\ud83c\udfc3",
+      "file": "glyphs/U+1F3C3.png",
+      "width": 12,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 14
+    },
+    {
+      "codepoint": 127942,
+      "char": "\ud83c\udfc6",
+      "file": "glyphs/U+1F3C6.png",
+      "width": 17,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 19
+    },
+    {
+      "codepoint": 127958,
+      "char": "\ud83c\udfd6",
+      "file": "glyphs/U+1F3D6.png",
+      "width": 19,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 21
+    },
+    {
+      "codepoint": 127968,
+      "char": "\ud83c\udfe0",
+      "file": "glyphs/U+1F3E0.png",
+      "width": 20,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 22
+    },
+    {
+      "codepoint": 127969,
+      "char": "\ud83c\udfe1",
+      "file": "glyphs/U+1F3E1.png",
+      "width": 22,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 24
+    },
+    {
+      "codepoint": 127987,
+      "char": "\ud83c\udff3",
+      "file": "glyphs/U+1F3F3.png",
+      "width": 18,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 20
+    },
+    {
+      "codepoint": 128007,
+      "char": "\ud83d\udc07",
+      "file": "glyphs/U+1F407.png",
+      "width": 19,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 21
+    },
+    {
+      "codepoint": 128008,
+      "char": "\ud83d\udc08",
+      "file": "glyphs/U+1F408.png",
+      "width": 20,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 22
+    },
+    {
+      "codepoint": 128021,
+      "char": "\ud83d\udc15",
+      "file": "glyphs/U+1F415.png",
+      "width": 20,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 22
+    },
+    {
+      "codepoint": 128029,
+      "char": "\ud83d\udc1d",
+      "file": "glyphs/U+1F41D.png",
+      "width": 18,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 20
+    },
+    {
+      "codepoint": 128031,
+      "char": "\ud83d\udc1f",
+      "file": "glyphs/U+1F41F.png",
+      "width": 19,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 21
+    },
+    {
+      "codepoint": 128034,
+      "char": "\ud83d\udc22",
+      "file": "glyphs/U+1F422.png",
+      "width": 24,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 26
+    },
+    {
+      "codepoint": 128035,
+      "char": "\ud83d\udc23",
+      "file": "glyphs/U+1F423.png",
+      "width": 18,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 20
+    },
+    {
+      "codepoint": 128037,
+      "char": "\ud83d\udc25",
+      "file": "glyphs/U+1F425.png",
+      "width": 17,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 19
+    },
+    {
+      "codepoint": 128048,
+      "char": "\ud83d\udc30",
+      "file": "glyphs/U+1F430.png",
+      "width": 19,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 21
+    },
+    {
+      "codepoint": 128049,
+      "char": "\ud83d\udc31",
+      "file": "glyphs/U+1F431.png",
+      "width": 20,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 22
+    },
+    {
+      "codepoint": 128053,
+      "char": "\ud83d\udc35",
+      "file": "glyphs/U+1F435.png",
+      "width": 18,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 20
+    },
+    {
+      "codepoint": 128054,
+      "char": "\ud83d\udc36",
+      "file": "glyphs/U+1F436.png",
+      "width": 19,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 21
+    },
+    {
+      "codepoint": 128055,
+      "char": "\ud83d\udc37",
+      "file": "glyphs/U+1F437.png",
+      "width": 20,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 22
+    },
+    {
+      "codepoint": 128056,
+      "char": "\ud83d\udc38",
+      "file": "glyphs/U+1F438.png",
+      "width": 20,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 22
+    },
+    {
+      "codepoint": 128059,
+      "char": "\ud83d\udc3b",
+      "file": "glyphs/U+1F43B.png",
+      "width": 19,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 21
+    },
+    {
+      "codepoint": 128062,
+      "char": "\ud83d\udc3e",
+      "file": "glyphs/U+1F43E.png",
+      "width": 18,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 20
+    },
+    {
+      "codepoint": 128064,
+      "char": "\ud83d\udc40",
+      "file": "glyphs/U+1F440.png",
+      "width": 19,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 21
+    },
+    {
+      "codepoint": 128065,
+      "char": "\ud83d\udc41",
+      "file": "glyphs/U+1F441.png",
+      "width": 21,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 23
+    },
+    {
+      "codepoint": 128068,
+      "char": "\ud83d\udc44",
+      "file": "glyphs/U+1F444.png",
+      "width": 24,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 26
+    },
+    {
+      "codepoint": 128069,
+      "char": "\ud83d\udc45",
+      "file": "glyphs/U+1F445.png",
+      "width": 21,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 23
+    },
+    {
+      "codepoint": 128070,
+      "char": "\ud83d\udc46",
+      "file": "glyphs/U+1F446.png",
+      "width": 17,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 19
+    },
+    {
+      "codepoint": 128071,
+      "char": "\ud83d\udc47",
+      "file": "glyphs/U+1F447.png",
+      "width": 17,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 19
+    },
+    {
+      "codepoint": 128072,
+      "char": "\ud83d\udc48",
+      "file": "glyphs/U+1F448.png",
+      "width": 18,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 20
+    },
+    {
+      "codepoint": 128073,
+      "char": "\ud83d\udc49",
+      "file": "glyphs/U+1F449.png",
+      "width": 18,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 20
+    },
+    {
+      "codepoint": 128074,
+      "char": "\ud83d\udc4a",
+      "file": "glyphs/U+1F44A.png",
+      "width": 19,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 21
+    },
+    {
+      "codepoint": 128075,
+      "char": "\ud83d\udc4b",
+      "file": "glyphs/U+1F44B.png",
+      "width": 27,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 29
+    },
+    {
+      "codepoint": 128076,
+      "char": "\ud83d\udc4c",
+      "file": "glyphs/U+1F44C.png",
+      "width": 16,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 18
+    },
+    {
+      "codepoint": 128077,
+      "char": "\ud83d\udc4d",
+      "file": "glyphs/U+1F44D.png",
+      "width": 16,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 18
+    },
+    {
+      "codepoint": 128078,
+      "char": "\ud83d\udc4e",
+      "file": "glyphs/U+1F44E.png",
+      "width": 16,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 18
+    },
+    {
+      "codepoint": 128079,
+      "char": "\ud83d\udc4f",
+      "file": "glyphs/U+1F44F.png",
+      "width": 27,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 29
+    },
+    {
+      "codepoint": 128080,
+      "char": "\ud83d\udc50",
+      "file": "glyphs/U+1F450.png",
+      "width": 27,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 29
+    },
+    {
+      "codepoint": 128081,
+      "char": "\ud83d\udc51",
+      "file": "glyphs/U+1F451.png",
+      "width": 19,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 21
+    },
+    {
+      "codepoint": 128118,
+      "char": "\ud83d\udc76",
+      "file": "glyphs/U+1F476.png",
+      "width": 20,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 22
+    },
+    {
+      "codepoint": 128121,
+      "char": "\ud83d\udc79",
+      "file": "glyphs/U+1F479.png",
+      "width": 19,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 21
+    },
+    {
+      "codepoint": 128122,
+      "char": "\ud83d\udc7a",
+      "file": "glyphs/U+1F47A.png",
+      "width": 17,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 19
+    },
+    {
+      "codepoint": 128123,
+      "char": "\ud83d\udc7b",
+      "file": "glyphs/U+1F47B.png",
+      "width": 19,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 21
+    },
+    {
+      "codepoint": 128125,
+      "char": "\ud83d\udc7d",
+      "file": "glyphs/U+1F47D.png",
+      "width": 18,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 20
+    },
+    {
+      "codepoint": 128126,
+      "char": "\ud83d\udc7e",
+      "file": "glyphs/U+1F47E.png",
+      "width": 18,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 20
+    },
+    {
+      "codepoint": 128127,
+      "char": "\ud83d\udc7f",
+      "file": "glyphs/U+1F47F.png",
+      "width": 22,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 24
+    },
+    {
+      "codepoint": 128128,
+      "char": "\ud83d\udc80",
+      "file": "glyphs/U+1F480.png",
+      "width": 18,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 20
+    },
+    {
+      "codepoint": 128129,
+      "char": "\ud83d\udc81",
+      "file": "glyphs/U+1F481.png",
+      "width": 18,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 20
+    },
+    {
+      "codepoint": 128131,
+      "char": "\ud83d\udc83",
+      "file": "glyphs/U+1F483.png",
+      "width": 15,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 17
+    },
+    {
+      "codepoint": 128133,
+      "char": "\ud83d\udc85",
+      "file": "glyphs/U+1F485.png",
+      "width": 20,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 22
+    },
+    {
+      "codepoint": 128139,
+      "char": "\ud83d\udc8b",
+      "file": "glyphs/U+1F48B.png",
+      "width": 18,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 20
+    },
+    {
       "codepoint": 128140,
       "char": "\ud83d\udc8c",
       "file": "glyphs/U+1F48C.png",
@@ -529,6 +1799,36 @@
       "left_offset": 1,
       "top_offset": 0,
       "advance": 18
+    },
+    {
+      "codepoint": 128142,
+      "char": "\ud83d\udc8e",
+      "file": "glyphs/U+1F48E.png",
+      "width": 21,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 23
+    },
+    {
+      "codepoint": 128144,
+      "char": "\ud83d\udc90",
+      "file": "glyphs/U+1F490.png",
+      "width": 18,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 20
+    },
+    {
+      "codepoint": 128147,
+      "char": "\ud83d\udc93",
+      "file": "glyphs/U+1F493.png",
+      "width": 25,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 27
     },
     {
       "codepoint": 128148,
@@ -581,9 +1881,49 @@
       "advance": 20
     },
     {
-      "codepoint": 128158,
-      "char": "\ud83d\udc9e",
-      "file": "glyphs/U+1F49E.png",
+      "codepoint": 128153,
+      "char": "\ud83d\udc99",
+      "file": "glyphs/U+1F499.png",
+      "width": 19,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 21
+    },
+    {
+      "codepoint": 128154,
+      "char": "\ud83d\udc9a",
+      "file": "glyphs/U+1F49A.png",
+      "width": 19,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 21
+    },
+    {
+      "codepoint": 128155,
+      "char": "\ud83d\udc9b",
+      "file": "glyphs/U+1F49B.png",
+      "width": 19,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 21
+    },
+    {
+      "codepoint": 128156,
+      "char": "\ud83d\udc9c",
+      "file": "glyphs/U+1F49C.png",
+      "width": 19,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 21
+    },
+    {
+      "codepoint": 128157,
+      "char": "\ud83d\udc9d",
+      "file": "glyphs/U+1F49D.png",
       "width": 22,
       "height": 18,
       "left_offset": 1,
@@ -591,9 +1931,9 @@
       "advance": 24
     },
     {
-      "codepoint": 128159,
-      "char": "\ud83d\udc9f",
-      "file": "glyphs/U+1F49F.png",
+      "codepoint": 128158,
+      "char": "\ud83d\udc9e",
+      "file": "glyphs/U+1F49E.png",
       "width": 20,
       "height": 18,
       "left_offset": 1,
@@ -601,14 +1941,44 @@
       "advance": 22
     },
     {
-      "codepoint": 128163,
-      "char": "\ud83d\udca3",
-      "file": "glyphs/U+1F4A3.png",
+      "codepoint": 128159,
+      "char": "\ud83d\udc9f",
+      "file": "glyphs/U+1F49F.png",
       "width": 17,
       "height": 18,
       "left_offset": 1,
       "top_offset": 0,
       "advance": 19
+    },
+    {
+      "codepoint": 128161,
+      "char": "\ud83d\udca1",
+      "file": "glyphs/U+1F4A1.png",
+      "width": 13,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 15
+    },
+    {
+      "codepoint": 128162,
+      "char": "\ud83d\udca2",
+      "file": "glyphs/U+1F4A2.png",
+      "width": 18,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 20
+    },
+    {
+      "codepoint": 128163,
+      "char": "\ud83d\udca3",
+      "file": "glyphs/U+1F4A3.png",
+      "width": 21,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 23
     },
     {
       "codepoint": 128164,
@@ -741,9 +2111,9 @@
       "advance": 24
     },
     {
-      "codepoint": 128185,
-      "char": "\ud83d\udcb9",
-      "file": "glyphs/U+1F4B9.png",
+      "codepoint": 128184,
+      "char": "\ud83d\udcb8",
+      "file": "glyphs/U+1F4B8.png",
       "width": 20,
       "height": 18,
       "left_offset": 1,
@@ -759,6 +2129,16 @@
       "left_offset": 1,
       "top_offset": 0,
       "advance": 23
+    },
+    {
+      "codepoint": 128197,
+      "char": "\ud83d\udcc5",
+      "file": "glyphs/U+1F4C5.png",
+      "width": 16,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 18
     },
     {
       "codepoint": 128200,
@@ -881,9 +2261,9 @@
       "advance": 20
     },
     {
-      "codepoint": 128228,
-      "char": "\ud83d\udce4",
-      "file": "glyphs/U+1F4E4.png",
+      "codepoint": 128230,
+      "char": "\ud83d\udce6",
+      "file": "glyphs/U+1F4E6.png",
       "width": 18,
       "height": 18,
       "left_offset": 1,
@@ -891,9 +2271,9 @@
       "advance": 20
     },
     {
-      "codepoint": 128229,
-      "char": "\ud83d\udce5",
-      "file": "glyphs/U+1F4E5.png",
+      "codepoint": 128231,
+      "char": "\ud83d\udce7",
+      "file": "glyphs/U+1F4E7.png",
       "width": 19,
       "height": 18,
       "left_offset": 1,
@@ -901,9 +2281,9 @@
       "advance": 21
     },
     {
-      "codepoint": 128230,
-      "char": "\ud83d\udce6",
-      "file": "glyphs/U+1F4E6.png",
+      "codepoint": 128240,
+      "char": "\ud83d\udcf0",
+      "file": "glyphs/U+1F4F0.png",
       "width": 20,
       "height": 18,
       "left_offset": 1,
@@ -941,9 +2321,9 @@
       "advance": 20
     },
     {
-      "codepoint": 128249,
-      "char": "\ud83d\udcf9",
-      "file": "glyphs/U+1F4F9.png",
+      "codepoint": 128248,
+      "char": "\ud83d\udcf8",
+      "file": "glyphs/U+1F4F8.png",
       "width": 22,
       "height": 18,
       "left_offset": 1,
@@ -1061,6 +2441,76 @@
       "advance": 21
     },
     {
+      "codepoint": 128305,
+      "char": "\ud83d\udd31",
+      "file": "glyphs/U+1F531.png",
+      "width": 21,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 23
+    },
+    {
+      "codepoint": 128330,
+      "char": "\ud83d\udd4a",
+      "file": "glyphs/U+1F54A.png",
+      "width": 22,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 24
+    },
+    {
+      "codepoint": 128378,
+      "char": "\ud83d\udd7a",
+      "file": "glyphs/U+1F57A.png",
+      "width": 15,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 17
+    },
+    {
+      "codepoint": 128400,
+      "char": "\ud83d\udd90",
+      "file": "glyphs/U+1F590.png",
+      "width": 18,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 20
+    },
+    {
+      "codepoint": 128405,
+      "char": "\ud83d\udd95",
+      "file": "glyphs/U+1F595.png",
+      "width": 16,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 18
+    },
+    {
+      "codepoint": 128406,
+      "char": "\ud83d\udd96",
+      "file": "glyphs/U+1F596.png",
+      "width": 18,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 20
+    },
+    {
+      "codepoint": 128420,
+      "char": "\ud83d\udda4",
+      "file": "glyphs/U+1F5A4.png",
+      "width": 19,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 21
+    },
+    {
       "codepoint": 128421,
       "char": "\ud83d\udda5",
       "file": "glyphs/U+1F5A5.png",
@@ -1109,6 +2559,16 @@
       "left_offset": 1,
       "top_offset": 0,
       "advance": 22
+    },
+    {
+      "codepoint": 128511,
+      "char": "\ud83d\uddff",
+      "file": "glyphs/U+1F5FF.png",
+      "width": 15,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 17
     },
     {
       "codepoint": 128512,
@@ -1671,469 +3131,19 @@
       "advance": 20
     },
     {
-      "codepoint": 983089,
-      "char": "\udb80\udc31",
-      "file": "glyphs/U+F0031.png",
-      "width": 18,
+      "codepoint": 128568,
+      "char": "\ud83d\ude38",
+      "file": "glyphs/U+1F638.png",
+      "width": 20,
       "height": 18,
       "left_offset": 1,
       "top_offset": 0,
-      "advance": 20
+      "advance": 22
     },
     {
-      "codepoint": 983090,
-      "char": "\udb80\udc32",
-      "file": "glyphs/U+F0032.png",
-      "width": 18,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 20
-    },
-    {
-      "codepoint": 983091,
-      "char": "\udb80\udc33",
-      "file": "glyphs/U+F0033.png",
-      "width": 27,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 29
-    },
-    {
-      "codepoint": 983092,
-      "char": "\udb80\udc34",
-      "file": "glyphs/U+F0034.png",
-      "width": 18,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 20
-    },
-    {
-      "codepoint": 983093,
-      "char": "\udb80\udc35",
-      "file": "glyphs/U+F0035.png",
-      "width": 18,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 20
-    },
-    {
-      "codepoint": 983094,
-      "char": "\udb80\udc36",
-      "file": "glyphs/U+F0036.png",
-      "width": 18,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 20
-    },
-    {
-      "codepoint": 983095,
-      "char": "\udb80\udc37",
-      "file": "glyphs/U+F0037.png",
-      "width": 18,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 20
-    },
-    {
-      "codepoint": 983096,
-      "char": "\udb80\udc38",
-      "file": "glyphs/U+F0038.png",
-      "width": 17,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 19
-    },
-    {
-      "codepoint": 983097,
-      "char": "\udb80\udc39",
-      "file": "glyphs/U+F0039.png",
-      "width": 18,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 20
-    },
-    {
-      "codepoint": 983098,
-      "char": "\udb80\udc3a",
-      "file": "glyphs/U+F003A.png",
-      "width": 18,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 20
-    },
-    {
-      "codepoint": 983099,
-      "char": "\udb80\udc3b",
-      "file": "glyphs/U+F003B.png",
-      "width": 18,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 20
-    },
-    {
-      "codepoint": 983100,
-      "char": "\udb80\udc3c",
-      "file": "glyphs/U+F003C.png",
-      "width": 18,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 20
-    },
-    {
-      "codepoint": 983101,
-      "char": "\udb80\udc3d",
-      "file": "glyphs/U+F003D.png",
-      "width": 21,
-      "height": 19,
-      "left_offset": 1,
-      "top_offset": -1,
-      "advance": 23
-    },
-    {
-      "codepoint": 983102,
-      "char": "\udb80\udc3e",
-      "file": "glyphs/U+F003E.png",
-      "width": 21,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 23
-    },
-    {
-      "codepoint": 983103,
-      "char": "\udb80\udc3f",
-      "file": "glyphs/U+F003F.png",
-      "width": 18,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 20
-    },
-    {
-      "codepoint": 983104,
-      "char": "\udb80\udc40",
-      "file": "glyphs/U+F0040.png",
-      "width": 18,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 20
-    },
-    {
-      "codepoint": 983105,
-      "char": "\udb80\udc41",
-      "file": "glyphs/U+F0041.png",
-      "width": 19,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 21
-    },
-    {
-      "codepoint": 983106,
-      "char": "\udb80\udc42",
-      "file": "glyphs/U+F0042.png",
-      "width": 19,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 21
-    },
-    {
-      "codepoint": 983107,
-      "char": "\udb80\udc43",
-      "file": "glyphs/U+F0043.png",
-      "width": 18,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 20
-    },
-    {
-      "codepoint": 983108,
-      "char": "\udb80\udc44",
-      "file": "glyphs/U+F0044.png",
-      "width": 14,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 16
-    },
-    {
-      "codepoint": 983109,
-      "char": "\udb80\udc45",
-      "file": "glyphs/U+F0045.png",
-      "width": 18,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 20
-    },
-    {
-      "codepoint": 983110,
-      "char": "\udb80\udc46",
-      "file": "glyphs/U+F0046.png",
-      "width": 14,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 16
-    },
-    {
-      "codepoint": 983111,
-      "char": "\udb80\udc47",
-      "file": "glyphs/U+F0047.png",
-      "width": 18,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 20
-    },
-    {
-      "codepoint": 983112,
-      "char": "\udb80\udc48",
-      "file": "glyphs/U+F0048.png",
-      "width": 14,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 16
-    },
-    {
-      "codepoint": 983113,
-      "char": "\udb80\udc49",
-      "file": "glyphs/U+F0049.png",
-      "width": 18,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 20
-    },
-    {
-      "codepoint": 983114,
-      "char": "\udb80\udc4a",
-      "file": "glyphs/U+F004A.png",
-      "width": 19,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 21
-    },
-    {
-      "codepoint": 983115,
-      "char": "\udb80\udc4b",
-      "file": "glyphs/U+F004B.png",
-      "width": 19,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 21
-    },
-    {
-      "codepoint": 983116,
-      "char": "\udb80\udc4c",
-      "file": "glyphs/U+F004C.png",
-      "width": 17,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 19
-    },
-    {
-      "codepoint": 983117,
-      "char": "\udb80\udc4d",
-      "file": "glyphs/U+F004D.png",
-      "width": 19,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 21
-    },
-    {
-      "codepoint": 983118,
-      "char": "\udb80\udc4e",
-      "file": "glyphs/U+F004E.png",
-      "width": 17,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 19
-    },
-    {
-      "codepoint": 983119,
-      "char": "\udb80\udc4f",
-      "file": "glyphs/U+F004F.png",
-      "width": 18,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 20
-    },
-    {
-      "codepoint": 983120,
-      "char": "\udb80\udc50",
-      "file": "glyphs/U+F0050.png",
-      "width": 18,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 20
-    },
-    {
-      "codepoint": 983121,
-      "char": "\udb80\udc51",
-      "file": "glyphs/U+F0051.png",
-      "width": 17,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 19
-    },
-    {
-      "codepoint": 983122,
-      "char": "\udb80\udc52",
-      "file": "glyphs/U+F0052.png",
-      "width": 18,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 20
-    },
-    {
-      "codepoint": 983123,
-      "char": "\udb80\udc53",
-      "file": "glyphs/U+F0053.png",
-      "width": 16,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 18
-    },
-    {
-      "codepoint": 983124,
-      "char": "\udb80\udc54",
-      "file": "glyphs/U+F0054.png",
-      "width": 16,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 18
-    },
-    {
-      "codepoint": 983125,
-      "char": "\udb80\udc55",
-      "file": "glyphs/U+F0055.png",
-      "width": 18,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 20
-    },
-    {
-      "codepoint": 983126,
-      "char": "\udb80\udc56",
-      "file": "glyphs/U+F0056.png",
-      "width": 19,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 21
-    },
-    {
-      "codepoint": 983127,
-      "char": "\udb80\udc57",
-      "file": "glyphs/U+F0057.png",
-      "width": 18,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 20
-    },
-    {
-      "codepoint": 983128,
-      "char": "\udb80\udc58",
-      "file": "glyphs/U+F0058.png",
-      "width": 18,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 20
-    },
-    {
-      "codepoint": 983129,
-      "char": "\udb80\udc59",
-      "file": "glyphs/U+F0059.png",
-      "width": 16,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 18
-    },
-    {
-      "codepoint": 983130,
-      "char": "\udb80\udc5a",
-      "file": "glyphs/U+F005A.png",
-      "width": 18,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 20
-    },
-    {
-      "codepoint": 983131,
-      "char": "\udb80\udc5b",
-      "file": "glyphs/U+F005B.png",
-      "width": 18,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 20
-    },
-    {
-      "codepoint": 983132,
-      "char": "\udb80\udc5c",
-      "file": "glyphs/U+F005C.png",
-      "width": 19,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 21
-    },
-    {
-      "codepoint": 983133,
-      "char": "\udb80\udc5d",
-      "file": "glyphs/U+F005D.png",
-      "width": 12,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 14
-    },
-    {
-      "codepoint": 983134,
-      "char": "\udb80\udc5e",
-      "file": "glyphs/U+F005E.png",
-      "width": 17,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 19
-    },
-    {
-      "codepoint": 983135,
-      "char": "\udb80\udc5f",
-      "file": "glyphs/U+F005F.png",
+      "codepoint": 128569,
+      "char": "\ud83d\ude39",
+      "file": "glyphs/U+1F639.png",
       "width": 22,
       "height": 18,
       "left_offset": 1,
@@ -2141,209 +3151,9 @@
       "advance": 24
     },
     {
-      "codepoint": 983136,
-      "char": "\udb80\udc60",
-      "file": "glyphs/U+F0060.png",
-      "width": 17,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 19
-    },
-    {
-      "codepoint": 983137,
-      "char": "\udb80\udc61",
-      "file": "glyphs/U+F0061.png",
-      "width": 26,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 28
-    },
-    {
-      "codepoint": 983138,
-      "char": "\udb80\udc62",
-      "file": "glyphs/U+F0062.png",
-      "width": 18,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 20
-    },
-    {
-      "codepoint": 983139,
-      "char": "\udb80\udc63",
-      "file": "glyphs/U+F0063.png",
-      "width": 18,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 20
-    },
-    {
-      "codepoint": 983140,
-      "char": "\udb80\udc64",
-      "file": "glyphs/U+F0064.png",
-      "width": 18,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 20
-    },
-    {
-      "codepoint": 983141,
-      "char": "\udb80\udc65",
-      "file": "glyphs/U+F0065.png",
-      "width": 18,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 20
-    },
-    {
-      "codepoint": 983142,
-      "char": "\udb80\udc66",
-      "file": "glyphs/U+F0066.png",
-      "width": 18,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 20
-    },
-    {
-      "codepoint": 983143,
-      "char": "\udb80\udc67",
-      "file": "glyphs/U+F0067.png",
-      "width": 15,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 17
-    },
-    {
-      "codepoint": 983144,
-      "char": "\udb80\udc68",
-      "file": "glyphs/U+F0068.png",
-      "width": 18,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 20
-    },
-    {
-      "codepoint": 983145,
-      "char": "\udb80\udc69",
-      "file": "glyphs/U+F0069.png",
-      "width": 18,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 20
-    },
-    {
-      "codepoint": 983146,
-      "char": "\udb80\udc6a",
-      "file": "glyphs/U+F006A.png",
-      "width": 12,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 14
-    },
-    {
-      "codepoint": 983147,
-      "char": "\udb80\udc6b",
-      "file": "glyphs/U+F006B.png",
-      "width": 27,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 29
-    },
-    {
-      "codepoint": 983148,
-      "char": "\udb80\udc6c",
-      "file": "glyphs/U+F006C.png",
-      "width": 19,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 21
-    },
-    {
-      "codepoint": 983149,
-      "char": "\udb80\udc6d",
-      "file": "glyphs/U+F006D.png",
-      "width": 22,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 24
-    },
-    {
-      "codepoint": 983150,
-      "char": "\udb80\udc6e",
-      "file": "glyphs/U+F006E.png",
-      "width": 13,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 15
-    },
-    {
-      "codepoint": 983151,
-      "char": "\udb80\udc6f",
-      "file": "glyphs/U+F006F.png",
-      "width": 18,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 20
-    },
-    {
-      "codepoint": 983152,
-      "char": "\udb80\udc70",
-      "file": "glyphs/U+F0070.png",
-      "width": 18,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 20
-    },
-    {
-      "codepoint": 983153,
-      "char": "\udb80\udc71",
-      "file": "glyphs/U+F0071.png",
-      "width": 18,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 20
-    },
-    {
-      "codepoint": 983154,
-      "char": "\udb80\udc72",
-      "file": "glyphs/U+F0072.png",
-      "width": 18,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 20
-    },
-    {
-      "codepoint": 983155,
-      "char": "\udb80\udc73",
-      "file": "glyphs/U+F0073.png",
-      "width": 18,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 20
-    },
-    {
-      "codepoint": 983156,
-      "char": "\udb80\udc74",
-      "file": "glyphs/U+F0074.png",
+      "codepoint": 128570,
+      "char": "\ud83d\ude3a",
+      "file": "glyphs/U+1F63A.png",
       "width": 20,
       "height": 18,
       "left_offset": 1,
@@ -2351,129 +3161,9 @@
       "advance": 22
     },
     {
-      "codepoint": 983157,
-      "char": "\udb80\udc75",
-      "file": "glyphs/U+F0075.png",
-      "width": 18,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 20
-    },
-    {
-      "codepoint": 983158,
-      "char": "\udb80\udc76",
-      "file": "glyphs/U+F0076.png",
-      "width": 18,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 20
-    },
-    {
-      "codepoint": 983159,
-      "char": "\udb80\udc77",
-      "file": "glyphs/U+F0077.png",
-      "width": 18,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 20
-    },
-    {
-      "codepoint": 983160,
-      "char": "\udb80\udc78",
-      "file": "glyphs/U+F0078.png",
-      "width": 18,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 20
-    },
-    {
-      "codepoint": 983161,
-      "char": "\udb80\udc79",
-      "file": "glyphs/U+F0079.png",
-      "width": 18,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 20
-    },
-    {
-      "codepoint": 983162,
-      "char": "\udb80\udc7a",
-      "file": "glyphs/U+F007A.png",
-      "width": 19,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 21
-    },
-    {
-      "codepoint": 983163,
-      "char": "\udb80\udc7b",
-      "file": "glyphs/U+F007B.png",
-      "width": 18,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 20
-    },
-    {
-      "codepoint": 983164,
-      "char": "\udb80\udc7c",
-      "file": "glyphs/U+F007C.png",
-      "width": 18,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 20
-    },
-    {
-      "codepoint": 983165,
-      "char": "\udb80\udc7d",
-      "file": "glyphs/U+F007D.png",
-      "width": 17,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 19
-    },
-    {
-      "codepoint": 983166,
-      "char": "\udb80\udc7e",
-      "file": "glyphs/U+F007E.png",
-      "width": 12,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 14
-    },
-    {
-      "codepoint": 983167,
-      "char": "\udb80\udc7f",
-      "file": "glyphs/U+F007F.png",
-      "width": 17,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 19
-    },
-    {
-      "codepoint": 983168,
-      "char": "\udb80\udc80",
-      "file": "glyphs/U+F0080.png",
-      "width": 19,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 21
-    },
-    {
-      "codepoint": 983169,
-      "char": "\udb80\udc81",
-      "file": "glyphs/U+F0081.png",
+      "codepoint": 128571,
+      "char": "\ud83d\ude3b",
+      "file": "glyphs/U+1F63B.png",
       "width": 20,
       "height": 18,
       "left_offset": 1,
@@ -2481,39 +3171,9 @@
       "advance": 22
     },
     {
-      "codepoint": 983170,
-      "char": "\udb80\udc82",
-      "file": "glyphs/U+F0082.png",
-      "width": 22,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 24
-    },
-    {
-      "codepoint": 983171,
-      "char": "\udb80\udc83",
-      "file": "glyphs/U+F0083.png",
-      "width": 18,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 20
-    },
-    {
-      "codepoint": 983172,
-      "char": "\udb80\udc84",
-      "file": "glyphs/U+F0084.png",
-      "width": 19,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 21
-    },
-    {
-      "codepoint": 983173,
-      "char": "\udb80\udc85",
-      "file": "glyphs/U+F0085.png",
+      "codepoint": 128572,
+      "char": "\ud83d\ude3c",
+      "file": "glyphs/U+1F63C.png",
       "width": 20,
       "height": 18,
       "left_offset": 1,
@@ -2521,9 +3181,9 @@
       "advance": 22
     },
     {
-      "codepoint": 983174,
-      "char": "\udb80\udc86",
-      "file": "glyphs/U+F0086.png",
+      "codepoint": 128573,
+      "char": "\ud83d\ude3d",
+      "file": "glyphs/U+1F63D.png",
       "width": 20,
       "height": 18,
       "left_offset": 1,
@@ -2531,69 +3191,9 @@
       "advance": 22
     },
     {
-      "codepoint": 983175,
-      "char": "\udb80\udc87",
-      "file": "glyphs/U+F0087.png",
-      "width": 18,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 20
-    },
-    {
-      "codepoint": 983176,
-      "char": "\udb80\udc88",
-      "file": "glyphs/U+F0088.png",
-      "width": 19,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 21
-    },
-    {
-      "codepoint": 983177,
-      "char": "\udb80\udc89",
-      "file": "glyphs/U+F0089.png",
-      "width": 24,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 26
-    },
-    {
-      "codepoint": 983178,
-      "char": "\udb80\udc8a",
-      "file": "glyphs/U+F008A.png",
-      "width": 18,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 20
-    },
-    {
-      "codepoint": 983179,
-      "char": "\udb80\udc8b",
-      "file": "glyphs/U+F008B.png",
-      "width": 17,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 19
-    },
-    {
-      "codepoint": 983180,
-      "char": "\udb80\udc8c",
-      "file": "glyphs/U+F008C.png",
-      "width": 19,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 21
-    },
-    {
-      "codepoint": 983181,
-      "char": "\udb80\udc8d",
-      "file": "glyphs/U+F008D.png",
+      "codepoint": 128574,
+      "char": "\ud83d\ude3e",
+      "file": "glyphs/U+1F63E.png",
       "width": 20,
       "height": 18,
       "left_offset": 1,
@@ -2601,29 +3201,9 @@
       "advance": 22
     },
     {
-      "codepoint": 983182,
-      "char": "\udb80\udc8e",
-      "file": "glyphs/U+F008E.png",
-      "width": 18,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 20
-    },
-    {
-      "codepoint": 983183,
-      "char": "\udb80\udc8f",
-      "file": "glyphs/U+F008F.png",
-      "width": 19,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 21
-    },
-    {
-      "codepoint": 983184,
-      "char": "\udb80\udc90",
-      "file": "glyphs/U+F0090.png",
+      "codepoint": 128575,
+      "char": "\ud83d\ude3f",
+      "file": "glyphs/U+1F63F.png",
       "width": 20,
       "height": 18,
       "left_offset": 1,
@@ -2631,9 +3211,9 @@
       "advance": 22
     },
     {
-      "codepoint": 983185,
-      "char": "\udb80\udc91",
-      "file": "glyphs/U+F0091.png",
+      "codepoint": 128576,
+      "char": "\ud83d\ude40",
+      "file": "glyphs/U+1F640.png",
       "width": 20,
       "height": 18,
       "left_offset": 1,
@@ -2641,19 +3221,9 @@
       "advance": 22
     },
     {
-      "codepoint": 983186,
-      "char": "\udb80\udc92",
-      "file": "glyphs/U+F0092.png",
-      "width": 19,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 21
-    },
-    {
-      "codepoint": 983187,
-      "char": "\udb80\udc93",
-      "file": "glyphs/U+F0093.png",
+      "codepoint": 128577,
+      "char": "\ud83d\ude41",
+      "file": "glyphs/U+1F641.png",
       "width": 18,
       "height": 18,
       "left_offset": 1,
@@ -2661,69 +3231,9 @@
       "advance": 20
     },
     {
-      "codepoint": 983188,
-      "char": "\udb80\udc94",
-      "file": "glyphs/U+F0094.png",
-      "width": 19,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 21
-    },
-    {
-      "codepoint": 983189,
-      "char": "\udb80\udc95",
-      "file": "glyphs/U+F0095.png",
-      "width": 21,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 23
-    },
-    {
-      "codepoint": 983190,
-      "char": "\udb80\udc96",
-      "file": "glyphs/U+F0096.png",
-      "width": 24,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 26
-    },
-    {
-      "codepoint": 983191,
-      "char": "\udb80\udc97",
-      "file": "glyphs/U+F0097.png",
-      "width": 21,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 23
-    },
-    {
-      "codepoint": 983192,
-      "char": "\udb80\udc98",
-      "file": "glyphs/U+F0098.png",
-      "width": 17,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 19
-    },
-    {
-      "codepoint": 983193,
-      "char": "\udb80\udc99",
-      "file": "glyphs/U+F0099.png",
-      "width": 17,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 19
-    },
-    {
-      "codepoint": 983194,
-      "char": "\udb80\udc9a",
-      "file": "glyphs/U+F009A.png",
+      "codepoint": 128578,
+      "char": "\ud83d\ude42",
+      "file": "glyphs/U+1F642.png",
       "width": 18,
       "height": 18,
       "left_offset": 1,
@@ -2731,9 +3241,9 @@
       "advance": 20
     },
     {
-      "codepoint": 983195,
-      "char": "\udb80\udc9b",
-      "file": "glyphs/U+F009B.png",
+      "codepoint": 128579,
+      "char": "\ud83d\ude43",
+      "file": "glyphs/U+1F643.png",
       "width": 18,
       "height": 18,
       "left_offset": 1,
@@ -2741,89 +3251,39 @@
       "advance": 20
     },
     {
-      "codepoint": 983196,
-      "char": "\udb80\udc9c",
-      "file": "glyphs/U+F009C.png",
-      "width": 19,
+      "codepoint": 128580,
+      "char": "\ud83d\ude44",
+      "file": "glyphs/U+1F644.png",
+      "width": 18,
       "height": 18,
       "left_offset": 1,
       "top_offset": 0,
-      "advance": 21
+      "advance": 20
     },
     {
-      "codepoint": 983197,
-      "char": "\udb80\udc9d",
-      "file": "glyphs/U+F009D.png",
-      "width": 27,
+      "codepoint": 128581,
+      "char": "\ud83d\ude45",
+      "file": "glyphs/U+1F645.png",
+      "width": 18,
       "height": 18,
       "left_offset": 1,
       "top_offset": 0,
-      "advance": 29
+      "advance": 20
     },
     {
-      "codepoint": 983198,
-      "char": "\udb80\udc9e",
-      "file": "glyphs/U+F009E.png",
-      "width": 16,
+      "codepoint": 128583,
+      "char": "\ud83d\ude47",
+      "file": "glyphs/U+1F647.png",
+      "width": 18,
       "height": 18,
       "left_offset": 1,
       "top_offset": 0,
-      "advance": 18
+      "advance": 20
     },
     {
-      "codepoint": 983199,
-      "char": "\udb80\udc9f",
-      "file": "glyphs/U+F009F.png",
-      "width": 16,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 18
-    },
-    {
-      "codepoint": 983200,
-      "char": "\udb80\udca0",
-      "file": "glyphs/U+F00A0.png",
-      "width": 16,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 18
-    },
-    {
-      "codepoint": 983201,
-      "char": "\udb80\udca1",
-      "file": "glyphs/U+F00A1.png",
-      "width": 27,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 29
-    },
-    {
-      "codepoint": 983202,
-      "char": "\udb80\udca2",
-      "file": "glyphs/U+F00A2.png",
-      "width": 27,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 29
-    },
-    {
-      "codepoint": 983203,
-      "char": "\udb80\udca3",
-      "file": "glyphs/U+F00A3.png",
-      "width": 19,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 21
-    },
-    {
-      "codepoint": 983204,
-      "char": "\udb80\udca4",
-      "file": "glyphs/U+F00A4.png",
+      "codepoint": 128584,
+      "char": "\ud83d\ude48",
+      "file": "glyphs/U+1F648.png",
       "width": 20,
       "height": 18,
       "left_offset": 1,
@@ -2831,99 +3291,9 @@
       "advance": 22
     },
     {
-      "codepoint": 983205,
-      "char": "\udb80\udca5",
-      "file": "glyphs/U+F00A5.png",
-      "width": 19,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 21
-    },
-    {
-      "codepoint": 983206,
-      "char": "\udb80\udca6",
-      "file": "glyphs/U+F00A6.png",
-      "width": 17,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 19
-    },
-    {
-      "codepoint": 983207,
-      "char": "\udb80\udca7",
-      "file": "glyphs/U+F00A7.png",
-      "width": 19,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 21
-    },
-    {
-      "codepoint": 983208,
-      "char": "\udb80\udca8",
-      "file": "glyphs/U+F00A8.png",
-      "width": 18,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 20
-    },
-    {
-      "codepoint": 983209,
-      "char": "\udb80\udca9",
-      "file": "glyphs/U+F00A9.png",
-      "width": 18,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 20
-    },
-    {
-      "codepoint": 983210,
-      "char": "\udb80\udcaa",
-      "file": "glyphs/U+F00AA.png",
-      "width": 22,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 24
-    },
-    {
-      "codepoint": 983211,
-      "char": "\udb80\udcab",
-      "file": "glyphs/U+F00AB.png",
-      "width": 18,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 20
-    },
-    {
-      "codepoint": 983212,
-      "char": "\udb80\udcac",
-      "file": "glyphs/U+F00AC.png",
-      "width": 18,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 20
-    },
-    {
-      "codepoint": 983213,
-      "char": "\udb80\udcad",
-      "file": "glyphs/U+F00AD.png",
-      "width": 15,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 17
-    },
-    {
-      "codepoint": 983214,
-      "char": "\udb80\udcae",
-      "file": "glyphs/U+F00AE.png",
+      "codepoint": 128585,
+      "char": "\ud83d\ude49",
+      "file": "glyphs/U+1F649.png",
       "width": 20,
       "height": 18,
       "left_offset": 1,
@@ -2931,169 +3301,9 @@
       "advance": 22
     },
     {
-      "codepoint": 983215,
-      "char": "\udb80\udcaf",
-      "file": "glyphs/U+F00AF.png",
-      "width": 18,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 20
-    },
-    {
-      "codepoint": 983218,
-      "char": "\udb80\udcb2",
-      "file": "glyphs/U+F00B2.png",
-      "width": 21,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 23
-    },
-    {
-      "codepoint": 983219,
-      "char": "\udb80\udcb3",
-      "file": "glyphs/U+F00B3.png",
-      "width": 18,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 20
-    },
-    {
-      "codepoint": 983220,
-      "char": "\udb80\udcb4",
-      "file": "glyphs/U+F00B4.png",
-      "width": 25,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 27
-    },
-    {
-      "codepoint": 983229,
-      "char": "\udb80\udcbd",
-      "file": "glyphs/U+F00BD.png",
-      "width": 13,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 15
-    },
-    {
-      "codepoint": 983230,
-      "char": "\udb80\udcbe",
-      "file": "glyphs/U+F00BE.png",
-      "width": 18,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 20
-    },
-    {
-      "codepoint": 983231,
-      "char": "\udb80\udcbf",
-      "file": "glyphs/U+F00BF.png",
-      "width": 21,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 23
-    },
-    {
-      "codepoint": 983247,
-      "char": "\udb80\udccf",
-      "file": "glyphs/U+F00CF.png",
-      "width": 16,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 18
-    },
-    {
-      "codepoint": 983278,
-      "char": "\udb80\udcee",
-      "file": "glyphs/U+F00EE.png",
-      "width": 21,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 23
-    },
-    {
-      "codepoint": 983279,
-      "char": "\udb80\udcef",
-      "file": "glyphs/U+F00EF.png",
-      "width": 22,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 24
-    },
-    {
-      "codepoint": 983280,
-      "char": "\udb80\udcf0",
-      "file": "glyphs/U+F00F0.png",
-      "width": 15,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 17
-    },
-    {
-      "codepoint": 983281,
-      "char": "\udb80\udcf1",
-      "file": "glyphs/U+F00F1.png",
-      "width": 18,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 20
-    },
-    {
-      "codepoint": 983282,
-      "char": "\udb80\udcf2",
-      "file": "glyphs/U+F00F2.png",
-      "width": 16,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 18
-    },
-    {
-      "codepoint": 983283,
-      "char": "\udb80\udcf3",
-      "file": "glyphs/U+F00F3.png",
-      "width": 18,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 20
-    },
-    {
-      "codepoint": 983284,
-      "char": "\udb80\udcf4",
-      "file": "glyphs/U+F00F4.png",
-      "width": 19,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 21
-    },
-    {
-      "codepoint": 983290,
-      "char": "\udb80\udcfa",
-      "file": "glyphs/U+F00FA.png",
-      "width": 15,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 17
-    },
-    {
-      "codepoint": 983347,
-      "char": "\udb80\udd33",
-      "file": "glyphs/U+F0133.png",
+      "codepoint": 128586,
+      "char": "\ud83d\ude4a",
+      "file": "glyphs/U+1F64A.png",
       "width": 20,
       "height": 18,
       "left_offset": 1,
@@ -3101,89 +3311,9 @@
       "advance": 22
     },
     {
-      "codepoint": 983348,
-      "char": "\udb80\udd34",
-      "file": "glyphs/U+F0134.png",
-      "width": 22,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 24
-    },
-    {
-      "codepoint": 983349,
-      "char": "\udb80\udd35",
-      "file": "glyphs/U+F0135.png",
-      "width": 20,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 22
-    },
-    {
-      "codepoint": 983350,
-      "char": "\udb80\udd36",
-      "file": "glyphs/U+F0136.png",
-      "width": 20,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 22
-    },
-    {
-      "codepoint": 983351,
-      "char": "\udb80\udd37",
-      "file": "glyphs/U+F0137.png",
-      "width": 20,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 22
-    },
-    {
-      "codepoint": 983352,
-      "char": "\udb80\udd38",
-      "file": "glyphs/U+F0138.png",
-      "width": 20,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 22
-    },
-    {
-      "codepoint": 983353,
-      "char": "\udb80\udd39",
-      "file": "glyphs/U+F0139.png",
-      "width": 20,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 22
-    },
-    {
-      "codepoint": 983354,
-      "char": "\udb80\udd3a",
-      "file": "glyphs/U+F013A.png",
-      "width": 20,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 22
-    },
-    {
-      "codepoint": 983355,
-      "char": "\udb80\udd3b",
-      "file": "glyphs/U+F013B.png",
-      "width": 20,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 22
-    },
-    {
-      "codepoint": 983356,
-      "char": "\udb80\udd3c",
-      "file": "glyphs/U+F013C.png",
+      "codepoint": 128587,
+      "char": "\ud83d\ude4b",
+      "file": "glyphs/U+1F64B.png",
       "width": 18,
       "height": 18,
       "left_offset": 1,
@@ -3191,99 +3321,9 @@
       "advance": 20
     },
     {
-      "codepoint": 983357,
-      "char": "\udb80\udd3d",
-      "file": "glyphs/U+F013D.png",
-      "width": 18,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 20
-    },
-    {
-      "codepoint": 983358,
-      "char": "\udb80\udd3e",
-      "file": "glyphs/U+F013E.png",
-      "width": 18,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 20
-    },
-    {
-      "codepoint": 983359,
-      "char": "\udb80\udd3f",
-      "file": "glyphs/U+F013F.png",
-      "width": 18,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 20
-    },
-    {
-      "codepoint": 983360,
-      "char": "\udb80\udd40",
-      "file": "glyphs/U+F0140.png",
-      "width": 18,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 20
-    },
-    {
-      "codepoint": 983361,
-      "char": "\udb80\udd41",
-      "file": "glyphs/U+F0141.png",
-      "width": 18,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 20
-    },
-    {
-      "codepoint": 983362,
-      "char": "\udb80\udd42",
-      "file": "glyphs/U+F0142.png",
-      "width": 20,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 22
-    },
-    {
-      "codepoint": 983363,
-      "char": "\udb80\udd43",
-      "file": "glyphs/U+F0143.png",
-      "width": 20,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 22
-    },
-    {
-      "codepoint": 983364,
-      "char": "\udb80\udd44",
-      "file": "glyphs/U+F0144.png",
-      "width": 20,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 22
-    },
-    {
-      "codepoint": 983365,
-      "char": "\udb80\udd45",
-      "file": "glyphs/U+F0145.png",
-      "width": 18,
-      "height": 18,
-      "left_offset": 1,
-      "top_offset": 0,
-      "advance": 20
-    },
-    {
-      "codepoint": 983366,
-      "char": "\udb80\udd46",
-      "file": "glyphs/U+F0146.png",
+      "codepoint": 128588,
+      "char": "\ud83d\ude4c",
+      "file": "glyphs/U+1F64C.png",
       "width": 23,
       "height": 18,
       "left_offset": 1,
@@ -3291,9 +3331,9 @@
       "advance": 25
     },
     {
-      "codepoint": 983367,
-      "char": "\udb80\udd47",
-      "file": "glyphs/U+F0147.png",
+      "codepoint": 128591,
+      "char": "\ud83d\ude4f",
+      "file": "glyphs/U+1F64F.png",
       "width": 25,
       "height": 18,
       "left_offset": 1,
@@ -3301,9 +3341,9 @@
       "advance": 27
     },
     {
-      "codepoint": 983368,
-      "char": "\udb80\udd48",
-      "file": "glyphs/U+F0148.png",
+      "codepoint": 128640,
+      "char": "\ud83d\ude80",
+      "file": "glyphs/U+1F680.png",
       "width": 18,
       "height": 18,
       "left_offset": 1,
@@ -3311,9 +3351,9 @@
       "advance": 20
     },
     {
-      "codepoint": 983369,
-      "char": "\udb80\udd49",
-      "file": "glyphs/U+F0149.png",
+      "codepoint": 128663,
+      "char": "\ud83d\ude97",
+      "file": "glyphs/U+1F697.png",
       "width": 21,
       "height": 18,
       "left_offset": 1,
@@ -3321,9 +3361,9 @@
       "advance": 23
     },
     {
-      "codepoint": 983370,
-      "char": "\udb80\udd4a",
-      "file": "glyphs/U+F014A.png",
+      "codepoint": 128666,
+      "char": "\ud83d\ude9a",
+      "file": "glyphs/U+1F69A.png",
       "width": 26,
       "height": 18,
       "left_offset": 1,
@@ -3331,9 +3371,9 @@
       "advance": 28
     },
     {
-      "codepoint": 983371,
-      "char": "\udb80\udd4b",
-      "file": "glyphs/U+F014B.png",
+      "codepoint": 128680,
+      "char": "\ud83d\udea8",
+      "file": "glyphs/U+1F6A8.png",
       "width": 22,
       "height": 18,
       "left_offset": 1,
@@ -3341,9 +3381,9 @@
       "advance": 24
     },
     {
-      "codepoint": 983372,
-      "char": "\udb80\udd4c",
-      "file": "glyphs/U+F014C.png",
+      "codepoint": 128681,
+      "char": "\ud83d\udea9",
+      "file": "glyphs/U+1F6A9.png",
       "width": 17,
       "height": 18,
       "left_offset": 1,
@@ -3351,9 +3391,9 @@
       "advance": 19
     },
     {
-      "codepoint": 983373,
-      "char": "\udb80\udd4d",
-      "file": "glyphs/U+F014D.png",
+      "codepoint": 128683,
+      "char": "\ud83d\udeab",
+      "file": "glyphs/U+1F6AB.png",
       "width": 18,
       "height": 18,
       "left_offset": 1,
@@ -3361,9 +3401,9 @@
       "advance": 20
     },
     {
-      "codepoint": 983374,
-      "char": "\udb80\udd4e",
-      "file": "glyphs/U+F014E.png",
+      "codepoint": 128684,
+      "char": "\ud83d\udeac",
+      "file": "glyphs/U+1F6AC.png",
       "width": 18,
       "height": 18,
       "left_offset": 1,
@@ -3371,9 +3411,9 @@
       "advance": 20
     },
     {
-      "codepoint": 983375,
-      "char": "\udb80\udd4f",
-      "file": "glyphs/U+F014F.png",
+      "codepoint": 128694,
+      "char": "\ud83d\udeb6",
+      "file": "glyphs/U+1F6B6.png",
       "width": 11,
       "height": 18,
       "left_offset": 1,
@@ -3381,9 +3421,9 @@
       "advance": 13
     },
     {
-      "codepoint": 983376,
-      "char": "\udb80\udd50",
-      "file": "glyphs/U+F0150.png",
+      "codepoint": 128717,
+      "char": "\ud83d\udecd",
+      "file": "glyphs/U+1F6CD.png",
       "width": 21,
       "height": 18,
       "left_offset": 1,
@@ -3391,9 +3431,9 @@
       "advance": 23
     },
     {
-      "codepoint": 983377,
-      "char": "\udb80\udd51",
-      "file": "glyphs/U+F0151.png",
+      "codepoint": 128722,
+      "char": "\ud83d\uded2",
+      "file": "glyphs/U+1F6D2.png",
       "width": 20,
       "height": 18,
       "left_offset": 1,
@@ -3401,9 +3441,9 @@
       "advance": 22
     },
     {
-      "codepoint": 983378,
-      "char": "\udb80\udd52",
-      "file": "glyphs/U+F0152.png",
+      "codepoint": 128736,
+      "char": "\ud83d\udee0",
+      "file": "glyphs/U+1F6E0.png",
       "width": 20,
       "height": 18,
       "left_offset": 1,
@@ -3411,9 +3451,9 @@
       "advance": 22
     },
     {
-      "codepoint": 983379,
-      "char": "\udb80\udd53",
-      "file": "glyphs/U+F0153.png",
+      "codepoint": 128737,
+      "char": "\ud83d\udee1",
+      "file": "glyphs/U+1F6E1.png",
       "width": 16,
       "height": 18,
       "left_offset": 1,
@@ -3421,9 +3461,9 @@
       "advance": 18
     },
     {
-      "codepoint": 983380,
-      "char": "\udb80\udd54",
-      "file": "glyphs/U+F0154.png",
+      "codepoint": 129292,
+      "char": "\ud83e\udd0c",
+      "file": "glyphs/U+1F90C.png",
       "width": 19,
       "height": 18,
       "left_offset": 1,
@@ -3431,9 +3471,9 @@
       "advance": 21
     },
     {
-      "codepoint": 983381,
-      "char": "\udb80\udd55",
-      "file": "glyphs/U+F0155.png",
+      "codepoint": 129293,
+      "char": "\ud83e\udd0d",
+      "file": "glyphs/U+1F90D.png",
       "width": 19,
       "height": 18,
       "left_offset": 1,
@@ -3441,9 +3481,19 @@
       "advance": 21
     },
     {
-      "codepoint": 983382,
-      "char": "\udb80\udd56",
-      "file": "glyphs/U+F0156.png",
+      "codepoint": 129294,
+      "char": "\ud83e\udd0e",
+      "file": "glyphs/U+1F90E.png",
+      "width": 19,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 21
+    },
+    {
+      "codepoint": 129295,
+      "char": "\ud83e\udd0f",
+      "file": "glyphs/U+1F90F.png",
       "width": 22,
       "height": 18,
       "left_offset": 1,
@@ -3451,9 +3501,9 @@
       "advance": 24
     },
     {
-      "codepoint": 983383,
-      "char": "\udb80\udd57",
-      "file": "glyphs/U+F0157.png",
+      "codepoint": 129296,
+      "char": "\ud83e\udd10",
+      "file": "glyphs/U+1F910.png",
       "width": 18,
       "height": 18,
       "left_offset": 1,
@@ -3461,9 +3511,9 @@
       "advance": 20
     },
     {
-      "codepoint": 983384,
-      "char": "\udb80\udd58",
-      "file": "glyphs/U+F0158.png",
+      "codepoint": 129297,
+      "char": "\ud83e\udd11",
+      "file": "glyphs/U+1F911.png",
       "width": 18,
       "height": 18,
       "left_offset": 1,
@@ -3471,9 +3521,9 @@
       "advance": 20
     },
     {
-      "codepoint": 983385,
-      "char": "\udb80\udd59",
-      "file": "glyphs/U+F0159.png",
+      "codepoint": 129298,
+      "char": "\ud83e\udd12",
+      "file": "glyphs/U+1F912.png",
       "width": 20,
       "height": 18,
       "left_offset": 1,
@@ -3481,9 +3531,9 @@
       "advance": 22
     },
     {
-      "codepoint": 983386,
-      "char": "\udb80\udd5a",
-      "file": "glyphs/U+F015A.png",
+      "codepoint": 129299,
+      "char": "\ud83e\udd13",
+      "file": "glyphs/U+1F913.png",
       "width": 18,
       "height": 18,
       "left_offset": 1,
@@ -3491,9 +3541,9 @@
       "advance": 20
     },
     {
-      "codepoint": 983387,
-      "char": "\udb80\udd5b",
-      "file": "glyphs/U+F015B.png",
+      "codepoint": 129300,
+      "char": "\ud83e\udd14",
+      "file": "glyphs/U+1F914.png",
       "width": 18,
       "height": 18,
       "left_offset": 1,
@@ -3501,9 +3551,9 @@
       "advance": 20
     },
     {
-      "codepoint": 983388,
-      "char": "\udb80\udd5c",
-      "file": "glyphs/U+F015C.png",
+      "codepoint": 129301,
+      "char": "\ud83e\udd15",
+      "file": "glyphs/U+1F915.png",
       "width": 18,
       "height": 18,
       "left_offset": 1,
@@ -3511,9 +3561,9 @@
       "advance": 20
     },
     {
-      "codepoint": 983389,
-      "char": "\udb80\udd5d",
-      "file": "glyphs/U+F015D.png",
+      "codepoint": 129302,
+      "char": "\ud83e\udd16",
+      "file": "glyphs/U+1F916.png",
       "width": 19,
       "height": 18,
       "left_offset": 1,
@@ -3521,9 +3571,9 @@
       "advance": 21
     },
     {
-      "codepoint": 983390,
-      "char": "\udb80\udd5e",
-      "file": "glyphs/U+F015E.png",
+      "codepoint": 129303,
+      "char": "\ud83e\udd17",
+      "file": "glyphs/U+1F917.png",
       "width": 20,
       "height": 18,
       "left_offset": 1,
@@ -3531,9 +3581,9 @@
       "advance": 22
     },
     {
-      "codepoint": 983391,
-      "char": "\udb80\udd5f",
-      "file": "glyphs/U+F015F.png",
+      "codepoint": 129304,
+      "char": "\ud83e\udd18",
+      "file": "glyphs/U+1F918.png",
       "width": 14,
       "height": 18,
       "left_offset": 1,
@@ -3541,9 +3591,9 @@
       "advance": 16
     },
     {
-      "codepoint": 983392,
-      "char": "\udb80\udd60",
-      "file": "glyphs/U+F0160.png",
+      "codepoint": 129305,
+      "char": "\ud83e\udd19",
+      "file": "glyphs/U+1F919.png",
       "width": 18,
       "height": 19,
       "left_offset": 1,
@@ -3551,9 +3601,9 @@
       "advance": 20
     },
     {
-      "codepoint": 983393,
-      "char": "\udb80\udd61",
-      "file": "glyphs/U+F0161.png",
+      "codepoint": 129306,
+      "char": "\ud83e\udd1a",
+      "file": "glyphs/U+1F91A.png",
       "width": 18,
       "height": 18,
       "left_offset": 1,
@@ -3561,9 +3611,9 @@
       "advance": 20
     },
     {
-      "codepoint": 983394,
-      "char": "\udb80\udd62",
-      "file": "glyphs/U+F0162.png",
+      "codepoint": 129307,
+      "char": "\ud83e\udd1b",
+      "file": "glyphs/U+1F91B.png",
       "width": 20,
       "height": 18,
       "left_offset": 1,
@@ -3571,9 +3621,9 @@
       "advance": 22
     },
     {
-      "codepoint": 983395,
-      "char": "\udb80\udd63",
-      "file": "glyphs/U+F0163.png",
+      "codepoint": 129308,
+      "char": "\ud83e\udd1c",
+      "file": "glyphs/U+1F91C.png",
       "width": 20,
       "height": 18,
       "left_offset": 1,
@@ -3581,9 +3631,9 @@
       "advance": 22
     },
     {
-      "codepoint": 983396,
-      "char": "\udb80\udd64",
-      "file": "glyphs/U+F0164.png",
+      "codepoint": 129309,
+      "char": "\ud83e\udd1d",
+      "file": "glyphs/U+1F91D.png",
       "width": 27,
       "height": 18,
       "left_offset": 1,
@@ -3591,9 +3641,9 @@
       "advance": 29
     },
     {
-      "codepoint": 983397,
-      "char": "\udb80\udd65",
-      "file": "glyphs/U+F0165.png",
+      "codepoint": 129310,
+      "char": "\ud83e\udd1e",
+      "file": "glyphs/U+1F91E.png",
       "width": 14,
       "height": 19,
       "left_offset": 1,
@@ -3601,9 +3651,9 @@
       "advance": 16
     },
     {
-      "codepoint": 983398,
-      "char": "\udb80\udd66",
-      "file": "glyphs/U+F0166.png",
+      "codepoint": 129311,
+      "char": "\ud83e\udd1f",
+      "file": "glyphs/U+1F91F.png",
       "width": 18,
       "height": 18,
       "left_offset": 1,
@@ -3611,9 +3661,9 @@
       "advance": 20
     },
     {
-      "codepoint": 983399,
-      "char": "\udb80\udd67",
-      "file": "glyphs/U+F0167.png",
+      "codepoint": 129312,
+      "char": "\ud83e\udd20",
+      "file": "glyphs/U+1F920.png",
       "width": 20,
       "height": 18,
       "left_offset": 1,
@@ -3621,9 +3671,9 @@
       "advance": 22
     },
     {
-      "codepoint": 983400,
-      "char": "\udb80\udd68",
-      "file": "glyphs/U+F0168.png",
+      "codepoint": 129313,
+      "char": "\ud83e\udd21",
+      "file": "glyphs/U+1F921.png",
       "width": 20,
       "height": 18,
       "left_offset": 1,
@@ -3631,9 +3681,9 @@
       "advance": 22
     },
     {
-      "codepoint": 983401,
-      "char": "\udb80\udd69",
-      "file": "glyphs/U+F0169.png",
+      "codepoint": 129314,
+      "char": "\ud83e\udd22",
+      "file": "glyphs/U+1F922.png",
       "width": 18,
       "height": 18,
       "left_offset": 1,
@@ -3641,9 +3691,9 @@
       "advance": 20
     },
     {
-      "codepoint": 983402,
-      "char": "\udb80\udd6a",
-      "file": "glyphs/U+F016A.png",
+      "codepoint": 129315,
+      "char": "\ud83e\udd23",
+      "file": "glyphs/U+1F923.png",
       "width": 18,
       "height": 18,
       "left_offset": 1,
@@ -3651,9 +3701,9 @@
       "advance": 20
     },
     {
-      "codepoint": 983403,
-      "char": "\udb80\udd6b",
-      "file": "glyphs/U+F016B.png",
+      "codepoint": 129316,
+      "char": "\ud83e\udd24",
+      "file": "glyphs/U+1F924.png",
       "width": 18,
       "height": 18,
       "left_offset": 1,
@@ -3661,9 +3711,9 @@
       "advance": 20
     },
     {
-      "codepoint": 983404,
-      "char": "\udb80\udd6c",
-      "file": "glyphs/U+F016C.png",
+      "codepoint": 129317,
+      "char": "\ud83e\udd25",
+      "file": "glyphs/U+1F925.png",
       "width": 21,
       "height": 18,
       "left_offset": 1,
@@ -3671,9 +3721,9 @@
       "advance": 23
     },
     {
-      "codepoint": 983405,
-      "char": "\udb80\udd6d",
-      "file": "glyphs/U+F016D.png",
+      "codepoint": 129318,
+      "char": "\ud83e\udd26",
+      "file": "glyphs/U+1F926.png",
       "width": 15,
       "height": 18,
       "left_offset": 1,
@@ -3681,9 +3731,9 @@
       "advance": 17
     },
     {
-      "codepoint": 983406,
-      "char": "\udb80\udd6e",
-      "file": "glyphs/U+F016E.png",
+      "codepoint": 129319,
+      "char": "\ud83e\udd27",
+      "file": "glyphs/U+1F927.png",
       "width": 18,
       "height": 18,
       "left_offset": 1,
@@ -3691,9 +3741,9 @@
       "advance": 20
     },
     {
-      "codepoint": 983407,
-      "char": "\udb80\udd6f",
-      "file": "glyphs/U+F016F.png",
+      "codepoint": 129320,
+      "char": "\ud83e\udd28",
+      "file": "glyphs/U+1F928.png",
       "width": 18,
       "height": 18,
       "left_offset": 1,
@@ -3701,9 +3751,9 @@
       "advance": 20
     },
     {
-      "codepoint": 983408,
-      "char": "\udb80\udd70",
-      "file": "glyphs/U+F0170.png",
+      "codepoint": 129321,
+      "char": "\ud83e\udd29",
+      "file": "glyphs/U+1F929.png",
       "width": 22,
       "height": 18,
       "left_offset": 1,
@@ -3711,9 +3761,9 @@
       "advance": 24
     },
     {
-      "codepoint": 983409,
-      "char": "\udb80\udd71",
-      "file": "glyphs/U+F0171.png",
+      "codepoint": 129322,
+      "char": "\ud83e\udd2a",
+      "file": "glyphs/U+1F92A.png",
       "width": 18,
       "height": 18,
       "left_offset": 1,
@@ -3721,9 +3771,9 @@
       "advance": 20
     },
     {
-      "codepoint": 983410,
-      "char": "\udb80\udd72",
-      "file": "glyphs/U+F0172.png",
+      "codepoint": 129323,
+      "char": "\ud83e\udd2b",
+      "file": "glyphs/U+1F92B.png",
       "width": 18,
       "height": 18,
       "left_offset": 1,
@@ -3731,9 +3781,9 @@
       "advance": 20
     },
     {
-      "codepoint": 983411,
-      "char": "\udb80\udd73",
-      "file": "glyphs/U+F0173.png",
+      "codepoint": 129324,
+      "char": "\ud83e\udd2c",
+      "file": "glyphs/U+1F92C.png",
       "width": 18,
       "height": 18,
       "left_offset": 1,
@@ -3741,9 +3791,9 @@
       "advance": 20
     },
     {
-      "codepoint": 983412,
-      "char": "\udb80\udd74",
-      "file": "glyphs/U+F0174.png",
+      "codepoint": 129325,
+      "char": "\ud83e\udd2d",
+      "file": "glyphs/U+1F92D.png",
       "width": 18,
       "height": 18,
       "left_offset": 1,
@@ -3751,9 +3801,9 @@
       "advance": 20
     },
     {
-      "codepoint": 983413,
-      "char": "\udb80\udd75",
-      "file": "glyphs/U+F0175.png",
+      "codepoint": 129326,
+      "char": "\ud83e\udd2e",
+      "file": "glyphs/U+1F92E.png",
       "width": 18,
       "height": 18,
       "left_offset": 1,
@@ -3761,9 +3811,9 @@
       "advance": 20
     },
     {
-      "codepoint": 983414,
-      "char": "\udb80\udd76",
-      "file": "glyphs/U+F0176.png",
+      "codepoint": 129327,
+      "char": "\ud83e\udd2f",
+      "file": "glyphs/U+1F92F.png",
       "width": 26,
       "height": 18,
       "left_offset": 1,
@@ -3771,9 +3821,9 @@
       "advance": 28
     },
     {
-      "codepoint": 983415,
-      "char": "\udb80\udd77",
-      "file": "glyphs/U+F0177.png",
+      "codepoint": 129330,
+      "char": "\ud83e\udd32",
+      "file": "glyphs/U+1F932.png",
       "width": 21,
       "height": 18,
       "left_offset": 1,
@@ -3781,9 +3831,9 @@
       "advance": 23
     },
     {
-      "codepoint": 983416,
-      "char": "\udb80\udd78",
-      "file": "glyphs/U+F0178.png",
+      "codepoint": 129335,
+      "char": "\ud83e\udd37",
+      "file": "glyphs/U+1F937.png",
       "width": 19,
       "height": 18,
       "left_offset": 1,
@@ -3791,9 +3841,9 @@
       "advance": 21
     },
     {
-      "codepoint": 983417,
-      "char": "\udb80\udd79",
-      "file": "glyphs/U+F0179.png",
+      "codepoint": 129336,
+      "char": "\ud83e\udd38",
+      "file": "glyphs/U+1F938.png",
       "width": 16,
       "height": 18,
       "left_offset": 1,
@@ -3801,9 +3851,9 @@
       "advance": 18
     },
     {
-      "codepoint": 983418,
-      "char": "\udb80\udd7a",
-      "file": "glyphs/U+F017A.png",
+      "codepoint": 129344,
+      "char": "\ud83e\udd40",
+      "file": "glyphs/U+1F940.png",
       "width": 21,
       "height": 18,
       "left_offset": 1,
@@ -3811,9 +3861,9 @@
       "advance": 23
     },
     {
-      "codepoint": 983419,
-      "char": "\udb80\udd7b",
-      "file": "glyphs/U+F017B.png",
+      "codepoint": 129346,
+      "char": "\ud83e\udd42",
+      "file": "glyphs/U+1F942.png",
       "width": 23,
       "height": 18,
       "left_offset": 1,
@@ -3821,9 +3871,9 @@
       "advance": 25
     },
     {
-      "codepoint": 983420,
-      "char": "\udb80\udd7c",
-      "file": "glyphs/U+F017C.png",
+      "codepoint": 129351,
+      "char": "\ud83e\udd47",
+      "file": "glyphs/U+1F947.png",
       "width": 17,
       "height": 18,
       "left_offset": 1,
@@ -3831,9 +3881,9 @@
       "advance": 19
     },
     {
-      "codepoint": 983421,
-      "char": "\udb80\udd7d",
-      "file": "glyphs/U+F017D.png",
+      "codepoint": 129392,
+      "char": "\ud83e\udd70",
+      "file": "glyphs/U+1F970.png",
       "width": 24,
       "height": 18,
       "left_offset": 1,
@@ -3841,9 +3891,9 @@
       "advance": 26
     },
     {
-      "codepoint": 983422,
-      "char": "\udb80\udd7e",
-      "file": "glyphs/U+F017E.png",
+      "codepoint": 129393,
+      "char": "\ud83e\udd71",
+      "file": "glyphs/U+1F971.png",
       "width": 18,
       "height": 18,
       "left_offset": 1,
@@ -3851,9 +3901,9 @@
       "advance": 20
     },
     {
-      "codepoint": 983423,
-      "char": "\udb80\udd7f",
-      "file": "glyphs/U+F017F.png",
+      "codepoint": 129394,
+      "char": "\ud83e\udd72",
+      "file": "glyphs/U+1F972.png",
       "width": 18,
       "height": 18,
       "left_offset": 1,
@@ -3861,9 +3911,9 @@
       "advance": 20
     },
     {
-      "codepoint": 983424,
-      "char": "\udb80\udd80",
-      "file": "glyphs/U+F0180.png",
+      "codepoint": 129395,
+      "char": "\ud83e\udd73",
+      "file": "glyphs/U+1F973.png",
       "width": 25,
       "height": 18,
       "left_offset": 1,
@@ -3871,9 +3921,9 @@
       "advance": 27
     },
     {
-      "codepoint": 983425,
-      "char": "\udb80\udd81",
-      "file": "glyphs/U+F0181.png",
+      "codepoint": 129396,
+      "char": "\ud83e\udd74",
+      "file": "glyphs/U+1F974.png",
       "width": 18,
       "height": 18,
       "left_offset": 1,
@@ -3881,9 +3931,9 @@
       "advance": 20
     },
     {
-      "codepoint": 983426,
-      "char": "\udb80\udd82",
-      "file": "glyphs/U+F0182.png",
+      "codepoint": 129397,
+      "char": "\ud83e\udd75",
+      "file": "glyphs/U+1F975.png",
       "width": 22,
       "height": 18,
       "left_offset": 1,
@@ -3891,9 +3941,9 @@
       "advance": 24
     },
     {
-      "codepoint": 983427,
-      "char": "\udb80\udd83",
-      "file": "glyphs/U+F0183.png",
+      "codepoint": 129398,
+      "char": "\ud83e\udd76",
+      "file": "glyphs/U+1F976.png",
       "width": 20,
       "height": 18,
       "left_offset": 1,
@@ -3901,9 +3951,9 @@
       "advance": 22
     },
     {
-      "codepoint": 983428,
-      "char": "\udb80\udd84",
-      "file": "glyphs/U+F0184.png",
+      "codepoint": 129399,
+      "char": "\ud83e\udd77",
+      "file": "glyphs/U+1F977.png",
       "width": 19,
       "height": 18,
       "left_offset": 1,
@@ -3911,9 +3961,9 @@
       "advance": 21
     },
     {
-      "codepoint": 983429,
-      "char": "\udb80\udd85",
-      "file": "glyphs/U+F0185.png",
+      "codepoint": 129400,
+      "char": "\ud83e\udd78",
+      "file": "glyphs/U+1F978.png",
       "width": 18,
       "height": 18,
       "left_offset": 1,
@@ -3921,9 +3971,9 @@
       "advance": 20
     },
     {
-      "codepoint": 983430,
-      "char": "\udb80\udd86",
-      "file": "glyphs/U+F0186.png",
+      "codepoint": 129401,
+      "char": "\ud83e\udd79",
+      "file": "glyphs/U+1F979.png",
       "width": 18,
       "height": 18,
       "left_offset": 1,
@@ -3931,9 +3981,9 @@
       "advance": 20
     },
     {
-      "codepoint": 983431,
-      "char": "\udb80\udd87",
-      "file": "glyphs/U+F0187.png",
+      "codepoint": 129402,
+      "char": "\ud83e\udd7a",
+      "file": "glyphs/U+1F97A.png",
       "width": 18,
       "height": 18,
       "left_offset": 1,
@@ -3941,9 +3991,9 @@
       "advance": 20
     },
     {
-      "codepoint": 983432,
-      "char": "\udb80\udd88",
-      "file": "glyphs/U+F0188.png",
+      "codepoint": 129411,
+      "char": "\ud83e\udd83",
+      "file": "glyphs/U+1F983.png",
       "width": 18,
       "height": 18,
       "left_offset": 1,
@@ -3951,9 +4001,9 @@
       "advance": 20
     },
     {
-      "codepoint": 983433,
-      "char": "\udb80\udd89",
-      "file": "glyphs/U+F0189.png",
+      "codepoint": 129413,
+      "char": "\ud83e\udd85",
+      "file": "glyphs/U+1F985.png",
       "width": 23,
       "height": 18,
       "left_offset": 1,
@@ -3961,9 +4011,9 @@
       "advance": 25
     },
     {
-      "codepoint": 983434,
-      "char": "\udb80\udd8a",
-      "file": "glyphs/U+F018A.png",
+      "codepoint": 129419,
+      "char": "\ud83e\udd8b",
+      "file": "glyphs/U+1F98B.png",
       "width": 18,
       "height": 18,
       "left_offset": 1,
@@ -3971,9 +4021,9 @@
       "advance": 20
     },
     {
-      "codepoint": 983435,
-      "char": "\udb80\udd8b",
-      "file": "glyphs/U+F018B.png",
+      "codepoint": 129473,
+      "char": "\ud83e\uddc1",
+      "file": "glyphs/U+1F9C1.png",
       "width": 14,
       "height": 18,
       "left_offset": 1,
@@ -3981,9 +4031,9 @@
       "advance": 16
     },
     {
-      "codepoint": 983436,
-      "char": "\udb80\udd8c",
-      "file": "glyphs/U+F018C.png",
+      "codepoint": 129488,
+      "char": "\ud83e\uddd0",
+      "file": "glyphs/U+1F9D0.png",
       "width": 20,
       "height": 18,
       "left_offset": 1,
@@ -3991,9 +4041,9 @@
       "advance": 22
     },
     {
-      "codepoint": 983437,
-      "char": "\udb80\udd8d",
-      "file": "glyphs/U+F018D.png",
+      "codepoint": 129499,
+      "char": "\ud83e\udddb",
+      "file": "glyphs/U+1F9DB.png",
       "width": 24,
       "height": 18,
       "left_offset": 1,
@@ -4001,9 +4051,9 @@
       "advance": 26
     },
     {
-      "codepoint": 983438,
-      "char": "\udb80\udd8e",
-      "file": "glyphs/U+F018E.png",
+      "codepoint": 129504,
+      "char": "\ud83e\udde0",
+      "file": "glyphs/U+1F9E0.png",
       "width": 18,
       "height": 18,
       "left_offset": 1,
@@ -4011,9 +4061,19 @@
       "advance": 20
     },
     {
-      "codepoint": 983439,
-      "char": "\udb80\udd8f",
-      "file": "glyphs/U+F018F.png",
+      "codepoint": 129505,
+      "char": "\ud83e\udde1",
+      "file": "glyphs/U+1F9E1.png",
+      "width": 19,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 21
+    },
+    {
+      "codepoint": 129506,
+      "char": "\ud83e\udde2",
+      "file": "glyphs/U+1F9E2.png",
       "width": 18,
       "height": 18,
       "left_offset": 1,
@@ -4021,9 +4081,9 @@
       "advance": 20
     },
     {
-      "codepoint": 983440,
-      "char": "\udb80\udd90",
-      "file": "glyphs/U+F0190.png",
+      "codepoint": 129528,
+      "char": "\ud83e\uddf8",
+      "file": "glyphs/U+1F9F8.png",
       "width": 17,
       "height": 18,
       "left_offset": 1,
@@ -4031,9 +4091,9 @@
       "advance": 19
     },
     {
-      "codepoint": 983441,
-      "char": "\udb80\udd91",
-      "file": "glyphs/U+F0191.png",
+      "codepoint": 129535,
+      "char": "\ud83e\uddff",
+      "file": "glyphs/U+1F9FF.png",
       "width": 18,
       "height": 18,
       "left_offset": 1,
@@ -4041,9 +4101,9 @@
       "advance": 20
     },
     {
-      "codepoint": 983442,
-      "char": "\udb80\udd92",
-      "file": "glyphs/U+F0192.png",
+      "codepoint": 129653,
+      "char": "\ud83e\ude75",
+      "file": "glyphs/U+1FA75.png",
       "width": 19,
       "height": 18,
       "left_offset": 1,
@@ -4051,9 +4111,29 @@
       "advance": 21
     },
     {
-      "codepoint": 983443,
-      "char": "\udb80\udd93",
-      "file": "glyphs/U+F0193.png",
+      "codepoint": 129654,
+      "char": "\ud83e\ude76",
+      "file": "glyphs/U+1FA76.png",
+      "width": 19,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 21
+    },
+    {
+      "codepoint": 129655,
+      "char": "\ud83e\ude77",
+      "file": "glyphs/U+1FA77.png",
+      "width": 19,
+      "height": 18,
+      "left_offset": 1,
+      "top_offset": 0,
+      "advance": 21
+    },
+    {
+      "codepoint": 129656,
+      "char": "\ud83e\ude78",
+      "file": "glyphs/U+1FA78.png",
       "width": 11,
       "height": 18,
       "left_offset": 1,
@@ -4061,9 +4141,9 @@
       "advance": 13
     },
     {
-      "codepoint": 983444,
-      "char": "\udb80\udd94",
-      "file": "glyphs/U+F0194.png",
+      "codepoint": 129668,
+      "char": "\ud83e\ude84",
+      "file": "glyphs/U+1FA84.png",
       "width": 18,
       "height": 18,
       "left_offset": 1,
@@ -4071,9 +4151,9 @@
       "advance": 20
     },
     {
-      "codepoint": 983445,
-      "char": "\udb80\udd95",
-      "file": "glyphs/U+F0195.png",
+      "codepoint": 129705,
+      "char": "\ud83e\udea9",
+      "file": "glyphs/U+1FAA9.png",
       "width": 27,
       "height": 18,
       "left_offset": 1,
@@ -4081,9 +4161,9 @@
       "advance": 29
     },
     {
-      "codepoint": 983446,
-      "char": "\udb80\udd96",
-      "file": "glyphs/U+F0196.png",
+      "codepoint": 129719,
+      "char": "\ud83e\udeb7",
+      "file": "glyphs/U+1FAB7.png",
       "width": 19,
       "height": 18,
       "left_offset": 1,
@@ -4091,9 +4171,9 @@
       "advance": 21
     },
     {
-      "codepoint": 983447,
-      "char": "\udb80\udd97",
-      "file": "glyphs/U+F0197.png",
+      "codepoint": 129725,
+      "char": "\ud83e\udebd",
+      "file": "glyphs/U+1FABD.png",
       "width": 19,
       "height": 18,
       "left_offset": 1,
@@ -4101,9 +4181,9 @@
       "advance": 21
     },
     {
-      "codepoint": 983448,
-      "char": "\udb80\udd98",
-      "file": "glyphs/U+F0198.png",
+      "codepoint": 129728,
+      "char": "\ud83e\udec0",
+      "file": "glyphs/U+1FAC0.png",
       "width": 14,
       "height": 20,
       "left_offset": 1,
@@ -4111,9 +4191,9 @@
       "advance": 16
     },
     {
-      "codepoint": 983449,
-      "char": "\udb80\udd99",
-      "file": "glyphs/U+F0199.png",
+      "codepoint": 129730,
+      "char": "\ud83e\udec2",
+      "file": "glyphs/U+1FAC2.png",
       "width": 17,
       "height": 18,
       "left_offset": 1,
@@ -4121,9 +4201,9 @@
       "advance": 19
     },
     {
-      "codepoint": 983450,
-      "char": "\udb80\udd9a",
-      "file": "glyphs/U+F019A.png",
+      "codepoint": 129760,
+      "char": "\ud83e\udee0",
+      "file": "glyphs/U+1FAE0.png",
       "width": 20,
       "height": 18,
       "left_offset": 1,
@@ -4131,9 +4211,9 @@
       "advance": 22
     },
     {
-      "codepoint": 983451,
-      "char": "\udb80\udd9b",
-      "file": "glyphs/U+F019B.png",
+      "codepoint": 129761,
+      "char": "\ud83e\udee1",
+      "file": "glyphs/U+1FAE1.png",
       "width": 18,
       "height": 18,
       "left_offset": 1,
@@ -4141,9 +4221,9 @@
       "advance": 20
     },
     {
-      "codepoint": 983452,
-      "char": "\udb80\udd9c",
-      "file": "glyphs/U+F019C.png",
+      "codepoint": 129762,
+      "char": "\ud83e\udee2",
+      "file": "glyphs/U+1FAE2.png",
       "width": 18,
       "height": 18,
       "left_offset": 1,
@@ -4151,9 +4231,9 @@
       "advance": 20
     },
     {
-      "codepoint": 983453,
-      "char": "\udb80\udd9d",
-      "file": "glyphs/U+F019D.png",
+      "codepoint": 129763,
+      "char": "\ud83e\udee3",
+      "file": "glyphs/U+1FAE3.png",
       "width": 21,
       "height": 18,
       "left_offset": 1,
@@ -4161,9 +4241,9 @@
       "advance": 23
     },
     {
-      "codepoint": 983454,
-      "char": "\udb80\udd9e",
-      "file": "glyphs/U+F019E.png",
+      "codepoint": 129764,
+      "char": "\ud83e\udee4",
+      "file": "glyphs/U+1FAE4.png",
       "width": 18,
       "height": 18,
       "left_offset": 1,
@@ -4171,9 +4251,9 @@
       "advance": 20
     },
     {
-      "codepoint": 983455,
-      "char": "\udb80\udd9f",
-      "file": "glyphs/U+F019F.png",
+      "codepoint": 129765,
+      "char": "\ud83e\udee5",
+      "file": "glyphs/U+1FAE5.png",
       "width": 18,
       "height": 18,
       "left_offset": 1,
@@ -4181,9 +4261,9 @@
       "advance": 20
     },
     {
-      "codepoint": 983456,
-      "char": "\udb80\udda0",
-      "file": "glyphs/U+F01A0.png",
+      "codepoint": 129766,
+      "char": "\ud83e\udee6",
+      "file": "glyphs/U+1FAE6.png",
       "width": 24,
       "height": 18,
       "left_offset": 1,
@@ -4191,9 +4271,9 @@
       "advance": 26
     },
     {
-      "codepoint": 983457,
-      "char": "\udb80\udda1",
-      "file": "glyphs/U+F01A1.png",
+      "codepoint": 129767,
+      "char": "\ud83e\udee7",
+      "file": "glyphs/U+1FAE7.png",
       "width": 22,
       "height": 18,
       "left_offset": 1,
@@ -4201,9 +4281,9 @@
       "advance": 24
     },
     {
-      "codepoint": 983458,
-      "char": "\udb80\udda2",
-      "file": "glyphs/U+F01A2.png",
+      "codepoint": 129768,
+      "char": "\ud83e\udee8",
+      "file": "glyphs/U+1FAE8.png",
       "width": 26,
       "height": 18,
       "left_offset": 1,
@@ -4211,9 +4291,9 @@
       "advance": 28
     },
     {
-      "codepoint": 983459,
-      "char": "\udb80\udda3",
-      "file": "glyphs/U+F01A3.png",
+      "codepoint": 129769,
+      "char": "\ud83e\udee9",
+      "file": "glyphs/U+1FAE9.png",
       "width": 18,
       "height": 18,
       "left_offset": 1,
@@ -4221,9 +4301,9 @@
       "advance": 20
     },
     {
-      "codepoint": 983460,
-      "char": "\udb80\udda4",
-      "file": "glyphs/U+F01A4.png",
+      "codepoint": 129770,
+      "char": "\ud83e\udeea",
+      "file": "glyphs/U+1FAEA.png",
       "width": 18,
       "height": 18,
       "left_offset": 1,
@@ -4231,9 +4311,9 @@
       "advance": 20
     },
     {
-      "codepoint": 983461,
-      "char": "\udb80\udda5",
-      "file": "glyphs/U+F01A5.png",
+      "codepoint": 129776,
+      "char": "\ud83e\udef0",
+      "file": "glyphs/U+1FAF0.png",
       "width": 15,
       "height": 18,
       "left_offset": 1,
@@ -4241,9 +4321,9 @@
       "advance": 17
     },
     {
-      "codepoint": 983462,
-      "char": "\udb80\udda6",
-      "file": "glyphs/U+F01A6.png",
+      "codepoint": 129777,
+      "char": "\ud83e\udef1",
+      "file": "glyphs/U+1FAF1.png",
       "width": 19,
       "height": 18,
       "left_offset": 1,
@@ -4251,9 +4331,9 @@
       "advance": 21
     },
     {
-      "codepoint": 983463,
-      "char": "\udb80\udda7",
-      "file": "glyphs/U+F01A7.png",
+      "codepoint": 129778,
+      "char": "\ud83e\udef2",
+      "file": "glyphs/U+1FAF2.png",
       "width": 19,
       "height": 18,
       "left_offset": 1,
@@ -4261,9 +4341,9 @@
       "advance": 21
     },
     {
-      "codepoint": 983464,
-      "char": "\udb80\udda8",
-      "file": "glyphs/U+F01A8.png",
+      "codepoint": 129779,
+      "char": "\ud83e\udef3",
+      "file": "glyphs/U+1FAF3.png",
       "width": 19,
       "height": 18,
       "left_offset": 1,
@@ -4271,9 +4351,9 @@
       "advance": 21
     },
     {
-      "codepoint": 983465,
-      "char": "\udb80\udda9",
-      "file": "glyphs/U+F01A9.png",
+      "codepoint": 129780,
+      "char": "\ud83e\udef4",
+      "file": "glyphs/U+1FAF4.png",
       "width": 19,
       "height": 18,
       "left_offset": 1,
@@ -4281,9 +4361,9 @@
       "advance": 21
     },
     {
-      "codepoint": 983466,
-      "char": "\udb80\uddaa",
-      "file": "glyphs/U+F01AA.png",
+      "codepoint": 129781,
+      "char": "\ud83e\udef5",
+      "file": "glyphs/U+1FAF5.png",
       "width": 18,
       "height": 18,
       "left_offset": 1,
@@ -4291,9 +4371,9 @@
       "advance": 20
     },
     {
-      "codepoint": 983467,
-      "char": "\udb80\uddab",
-      "file": "glyphs/U+F01AB.png",
+      "codepoint": 129782,
+      "char": "\ud83e\udef6",
+      "file": "glyphs/U+1FAF6.png",
       "width": 25,
       "height": 18,
       "left_offset": 1,
@@ -4301,9 +4381,9 @@
       "advance": 27
     },
     {
-      "codepoint": 983468,
-      "char": "\udb80\uddac",
-      "file": "glyphs/U+F01AC.png",
+      "codepoint": 129783,
+      "char": "\ud83e\udef7",
+      "file": "glyphs/U+1FAF7.png",
       "width": 18,
       "height": 18,
       "left_offset": 1,
@@ -4311,34 +4391,14 @@
       "advance": 20
     },
     {
-      "codepoint": 983469,
-      "char": "\udb80\uddad",
-      "file": "glyphs/U+F01AD.png",
+      "codepoint": 129784,
+      "char": "\ud83e\udef8",
+      "file": "glyphs/U+1FAF8.png",
       "width": 18,
       "height": 18,
       "left_offset": 1,
       "top_offset": 0,
       "advance": 20
-    },
-    {
-      "codepoint": 983470,
-      "char": "\udb80\uddae",
-      "file": "glyphs/U+F01AE.png",
-      "width": 0,
-      "height": 0,
-      "left_offset": 0,
-      "top_offset": 0,
-      "advance": 18
-    },
-    {
-      "codepoint": 983471,
-      "char": "\udb80\uddaf",
-      "file": "glyphs/U+F01AF.png",
-      "width": 0,
-      "height": 0,
-      "left_offset": 0,
-      "top_offset": 0,
-      "advance": 18
     }
   ]
 }
