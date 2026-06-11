@@ -1,0 +1,56 @@
+name: Build Emojis
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'emoji18/**'
+      - 'emoji24/**'
+      - 'scripts/**'
+      - '.github/workflows/build-emojis.yml'
+  pull_request:
+    branches: [ main ]
+    paths:
+      - 'emoji18/**'
+      - 'emoji24/**'
+      - 'scripts/**'
+      - '.github/workflows/build-emojis.yml'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+          cache-dependency-path: 'scripts/requirements.txt'
+
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r scripts/requirements.txt
+
+      - name: Build EMOJI18
+        run: python scripts/pbf_repack.py emoji18/font.json -o EMOJI18.pbf
+
+      - name: Build EMOJI24
+        run: python scripts/pbf_repack.py emoji24/font.json -o EMOJI24.pbf
+
+      - name: Verify binaries are up to date
+        run: |
+          git diff --exit-code EMOJI18.pbf EMOJI24.pbf
+
+      - name: Upload Compiled Emojis
+        uses: actions/upload-artifact@v4
+        with:
+          name: compiled-emojis
+          path: |
+            EMOJI18.pbf
+            EMOJI24.pbf
